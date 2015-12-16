@@ -2,22 +2,22 @@
 
 var express = require('express');
 var router = express.Router();
-var blog= require('../server/centent/blog');
-var piclife = require('../server/centent/piclife');
+var blog= require('../server/content/blog');
+var piclife = require('../server/content/piclife');
 let url = require('url');
-var marked = require('marked');
 
-/* GET home page. */
+/* GET home page. */ 
 router.get('/', function(req, res, next) {
 	let guard = 0;
 	let blogs, pic;
-	piclife.getcurrentpic(3, doc=>{
+	piclife.getCurrent(3).then(doc=>{
 		pic = doc;
+		console.log(doc);
 		if( ++guard == 2 )
 			res.render('top/top.ejs',{'blog':blogs, 'piclife':pic});
 	});
 
-	blog.getcurrentblog(4, doc=>{
+	blog.getCurrent(4).then(doc=>{
 		blogs = doc;
 		console.log(blogs);
 		if( ++guard == 2 ) 
@@ -26,44 +26,34 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/blog', (req, res, next)=>{
-	blog.getblog({}, doc=>{
+	blog.getRang(0, 10).then(doc=>{
 		res.render('top/blog/blog.ejs', {'blog':doc});
-	})
+	});
 })
 
 router.get('/singleblog', (req, res, next)=>{
 	let urljson = url.parse(req.url, true).query;
-	blog.getblog(urljson.blogid,{'format':'markdown'},doc=>{
-		doc[0].content = marked(doc[0].content);
+	if( /\D/.test(urljson.blogid))
+		return ;
+	blog.getById(urljson.blogid, {'format':'markdown'}).then(doc=>{
 		res.render('top/blog/singleblog/singleblog.ejs', {'blog':doc});		
 	})
 })
 
 router.get('/piclife', (req, res, next)=>{
-	piclife.getpiclife({}, doc=>{
+	piclife.getCurrent(5).then(doc=>{
 		res.render('top/piclife/piclife.ejs', {'piclife':doc});
-	})
+	});
 })
 
 router.get('/singlepic', (req, res, next)=>{
 	let urljson = url.parse(req.url, true).query;
-	piclife.getpiclife(urljson.picid, doc=>{
-		console.log(doc[0].path);
+	if( /\D/.test(urljson.picid))
+		return ;
+	console.log(9);
+	piclife.getById(urljson.picid).then(doc=>{
+		console.log(9);
 		res.render('top/piclife/singlepic/singlepic.ejs', {'singlepic':doc});		
-	})
-})
-
-router.post('/pushblog',(req, res, next)=>{
-	let header = JSON.parse(req.body.header);
-	let cond = {
-		title:header.title,
-		content:req.body.content
-	};
-	console.log(cond);
-	let blogclass = blog.creatblog(cond);
-	blogclass.save(err=>{
-		if( !err )
-			res.send('ok');
 	});
 })
 
