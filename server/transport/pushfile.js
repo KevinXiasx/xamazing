@@ -3,6 +3,14 @@
 var fs = require('fs');
 var formidable = require('formidable');
 var path = require('path');
+var co = require('co');
+var toPro = function (...argus) {
+    return new Promise(resolve, reject){
+        var func = argus.pop();
+        argus.push(function(){resolve(arguments);})
+        func.apply(this, ...argus);
+    }
+}
 
 class amfile {
     constructor(req) {
@@ -18,11 +26,9 @@ class amfile {
                     return err;
                 }
                 var extname = path.extname(files.upload.path);
-                if (!/^\.am/.test(extname)) {
+                if (!/^\.am/.test(path.extname(path);)) {
                     var name = path.basename(files.upload.path);
                 }
-
-
 
                 var avatarName = Math.random() + '.' + extName;
                 var newPath = form.uploadDir + avatarName;

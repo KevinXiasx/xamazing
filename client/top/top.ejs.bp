@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Amazing</title>
+	<link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/top/top.css"><!-- less-css -->
+</head>
+<body>
+	<%include ../public/header/header %>
+		
+	<section >
+		<div class="container">
+			<div class="row ">
+				<div class="col-sm-6 piclife flexbox main-around">
+					<% if (piclife) {%>
+						<% for(var m in piclife) {%>
+						<a href="/singlepic?picid=<%= piclife[m].id %>"><div class="pic" style="background-image:url(<%= ( piclife[m].path instanceof Array)? piclife[m].path[0]:piclife[m].path%>)"></div></a>
+						<% } %>
+					<% } else { %>
+						<p>没有任何照片</p>
+					<% } %>
+				</div>
+
+				<div class="col-sm-6 blogs ">
+					<% if (blog) {%>
+						<% for(var i in blog) {%>
+							<div class="blog">
+								<a href="/singleblog?blogid=<%= blog[i].id %>">
+									<div class="blogtitle"><strong><%= blog[i].title %></strong> <span class="author">write by <%= blog[i].author %></span> <span class=createtime>on <%= blog[i].createtime.toLocaleString() %></span></div>
+									<div class="blogcontent"><%= blog[i].content.substr(0, 60) %></div>
+								</a>
+							</div>
+						<% } %>
+					<% } else { %>
+						<p>没有任何文章</p>
+					<% } %>
+				</div>
+			</div>
+		</div>
+	</section>
+
+</body>
+
+<script src="/public/lib/seajs-3.0.0/dist/sea.js"></script>
+<script>
+	// Set configuration
+	seajs.config({
+		alias: {
+			"jquery":"/public/lib/jquery/jquery-seajs.js",
+			"jq-trans": "/public/lib/jquery/jquery-transision-seajs.js",
+			"bootstrap":"/public/lib/bootstrap/js/bootstrap-seajs.js",
+			"less":"/public/lib/less.js"
+		}
+	});
+	seajs.use("/top/top-main");
+</script>
+
+</html>
