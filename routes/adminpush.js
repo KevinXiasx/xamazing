@@ -2,29 +2,36 @@
 
 var express = require('express');
 var router = express.Router();
-
+var fs = require('fs');
+var formidable = require('formidable');
+var path = require('path');
 var inputCheck = require('../server/safe/inputcheck');
 
 
-router.post('/push:type',(req, res, next)=>{
+router.post('/', (req, res, next) => {
 
-	let pushTypes = ['blog', 'pic', 'code', 'paper'];
+    var form = new formidable.IncomingForm();
+    form.encoding = 'utf-8';
+    form.keepExtensions = true;
+    form.maxFieldsSize = 2 * 1024 * 1024;
+    var today = new Date();
+    form.uploadDir = 'server/transport/filetmp/'; //path.join('server/transport/filetmp/', 'date-' + today.getFullYear() + today.getMonth());
 
-	if( !inputCheck(req.params.type, standTypes) )
-		return;
-	let header = JSON.parse(req.body.header);
+    form.parse(req, (err, fields, files) => {
+        if (err) {
+            return err;
+        }
+        res.send(files.upload.path + '\n');
+        /* var extname = path.extname(files.upload.path);
+            if (!/^\.am/.test(path.extname(path);)) {
+            var name = path.basename(files.upload.path);
+        }
 
-	let cond = {
-		title:header.title,
-		content:req.body.content
-	};
+        var avatarName = Math.random() + '.' + extName;
+        var newPath = form.uploadDir + avatarName;
 
-	let blogclass = blog.creatblog(cond);
-	blogclass.save(err=>{
-		if( !err )
-			res.send('ok');
-	});
+        fs.renameSync(files.fulAvatar.path, newPath); //重命名*/
+    });
 })
 
 module.exports = router;
-
