@@ -1,5 +1,5 @@
 define(function(require, exports, module) {
-	require('bootstrap');
-//	require('less');
-//	var $ = require('jquery');
+    require('bootstrap');
+    var $ = require('jquery');
+    require('header');
 });

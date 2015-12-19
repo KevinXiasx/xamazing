@@ -29,40 +29,7 @@
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">X</span> Amazing
-                </a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">Blog</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#download">Piclife</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Code</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+    <%include ../public/header/header %>
 
     <!-- Intro Header -->
     <header class="intro">
@@ -72,7 +39,7 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Amazing</h1>
                         <p class="intro-text">论，如何成为一个优雅的程序员</p>
-                        <a href="#about" class="btn btn-circle page-scroll">
+                        <a href="#blog" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
                     </div>
@@ -81,21 +48,31 @@
         </div>
     </header>
 
-    <section id="about" class="container content-section text-left">
+    <section id="blog" class="container content-section text-left">
         <% if (blog) {%>
-            <% for(var i in blog) {%>
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-1">
-                    <a href="/singleblog?blogid=<%= blog[i].id %>">
-                        <div class="blogtitle"><h2><%= blog[i].title %></h2> <span class="author">write by <%= blog[i].author %></span> <span class=createtime>on <%= blog[i].createtime.toLocaleString() %></span></div>
-                        <p class="blogcontent"><%= blog[i].content.substr(0, 60) %> ...</p>
-                    </a>
+                <div class="col-lg-3">
+                    <figure class="seclogo"><h1><i class="fa fa-pencil"></i>B</h1><h4>log</h4>
+                    <a href="/blog"><button class="btn btn-default btn-lg">More</button></a>
+                    </figure>
+                </div>
+                <div class="col-lg-7 ">
+                    <% for(var i in blog) {%>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <a href="/singleblog?blogid=<%= blog[i].id %>">
+                                <div class="blogtitle"><h3><%= blog[i].title %></h3> <span class="author">write by <%= blog[i].author %></span> <span class=createtime>on <%= blog[i].createtime.toLocaleString() %></span></div>
+                                <p class="blogcontent"><%= blog[i].content.substr(0, 60) %> ...</p>
+                            </a>
+                        </div>
+                    </div>
+                    <% } %>
                 </div>
             </div>
-            <% } %>
         <% } else { %>
             <p>没有任何文章</p>
         <% } %>
+
     </section>
 
     <!-- Download Section -->
@@ -103,34 +80,31 @@
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Download Grayscale</h2>
-                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
-                    <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a>
+                    <h2>若企及不到优雅，我也欲为逗逼，誓不与普通相伴</h2>
+                    <p>只为不浪费那上天赐予、独一无二的生命</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" class="container content-section text-center">
+    <section id="contact" class="container content-section text-left">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a>
-                </p>
-                <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
-                </ul>
+            <div class="col-lg-3">
+                <figure class="seclogo"><h1><i class="fa fa-camera"></i>P</h1><h4>ic</h4>
+                <a href="/piclife"><button class="btn btn-default btn-lg">More</button></a>
+                </figure>
             </div>
+            <%var widthPer = 3;%>
+            <% if (piclife) {%>
+                <% for(var m in piclife) {%>
+                <div class="col-lg-<%= widthPer%> ">
+                    <a href="/singlepic?picid=<%= piclife[m].id %>" data-toggle="tooltip" data-placement="top" title="<%= piclife[m].title %>"><img class="img-circle pic" src="<%= ( piclife[m].path instanceof Array)? piclife[m].path[0]:piclife[m].path%>" /></a>
+                </div>
+                <% } %>
+            <% } else { %>
+                <p>没有任何照片</p>
+            <% } %>
         </div>
     </section>
 
@@ -138,7 +112,15 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Copyright &copy; Your Website 2014</p>
+            <ul class="list-inline banner-social-buttons">
+                <li>
+                    <a href="http://weibo.com/danjina" class="btn btn-default btn-lg"><i class="fa fa-weibo"></i> <span class="network-name"> 微博 </span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/KevinXiasx/xamazing" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                </li>
+            </ul>
+            <p>Copyright &copy; KevinXia</p>
         </div>
     </footer>
 
@@ -149,9 +131,11 @@
     seajs.config({
         alias: {
             "jquery":"/public/lib/jquery/jquery-seajs.js",
-            "jq-trans": "/public/lib/jquery/jquery-transision-seajs.js",
+            "jq-trans": "/public/lib/jquery/jq-transision-seajs.js",
             "bootstrap":"/public/lib/bootstrap/js/bootstrap-seajs.js",
-            "less":"/public/lib/less.js"
+            "less":"/public/lib/less.js",
+            "easing":"/public/lib/jquery/jquery.easing.seajs.js",
+            "header":"/public/header/header-main"
         }
     });
     seajs.use("/top/top-main");

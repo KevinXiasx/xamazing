@@ -1,41 +1,85 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<title>Amazing</title>
-	<link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="/top/blog/singleblog/singleblog.css"><!-- less-css -->
-</head>
-<body>
-	<%include ../../../public/header/header %>
-	<section >
-		<div class="container">
-			<div class="row ">
-				<div class="col-sm-12 flexbox direc-col main-start secon-start">
-				<% if(blog) {%>
-					<div><strong class="title"><%= blog[0].title %></strong><span class="author">write by <%= blog[0].author %></span> <span class=createtime>on <%= blog[0].createtime.toLocaleString() %></span></div>
-					<div class="content"> <%-"     "+blog[0].content  %></div>
-				<% } else {%>
-					<p>也许是你点击的时候姿势不对，没有找到文章</p>
-					<p>建议返回上个页面，换个姿势，再来一次</p>
-				<% } %>
-				</div>
-			</div>
-		</div>
-	</section>
-</body>
+<html lang="zh">
 
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Blog</title>
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link href="/top/blog/clean-blog.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="/public/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <%include ../../../public/header/header %>
+    <header class="intro-header" style="background-image: url('/images/img/about-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1><%= blog[0].title %></h1>
+                        <h2 class="subheading">Problems look mighty small from 150 miles up</h2>
+                        <span class="meta">write by <%= blog[0].author %></span> <span class=createtime>on <%= blog[0].createtime.toLocaleString() %></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <% if(blog) {%>
+                        <div class="content"> <%-"     "+blog[0].content  %></div>
+                    <% } else {%>
+                        <p>也许是你点击的时候姿势不对，没有找到文章</p>
+                        <p>建议返回上个页面，换个姿势，再来一次</p>
+                    <% } %>           
+                </div>
+            </div>
+        </div>
+    </article>
+    <hr>
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <ul class="list-inline banner-social-buttons">
+                <li>
+                    <a href="http://weibo.com/danjina" class="btn btn-default btn-lg"><i class="fa fa-weibo"></i> <span class="network-name"> 微博 </span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/KevinXiasx/xamazing" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                </li>
+            </ul>
+            <p>Copyright &copy; KevinXia</p>
+        </div>
+    </footer>
+
+</body>
 <script src="/public/lib/seajs-3.0.0/dist/sea.js"></script>
 <script>
-	// Set configuration
-	seajs.config({
-		alias: {
-			"jquery":"/public/lib/jquery/jquery-seajs.js",
-			"jq-trans": "/public/lib/jquery/jquery-transision-seajs.js",
-			"bootstrap":"/public/lib/bootstrap/js/bootstrap-seajs.js",
-			"less":"/public/lib/less.js"
-		}
-	});
-	seajs.use("/top/blog/singleblog/singleblog-main");
+    seajs.config({
+        alias: {
+            "jquery": "/public/lib/jquery/jquery-seajs.js",
+            "jq-trans": "/public/lib/jquery/jq-transision-seajs.js",
+            "bootstrap": "/public/lib/bootstrap/js/bootstrap-seajs.js",
+            "less": "/public/lib/less.js",
+            "easing": "/public/lib/jquery/jquery.easing.seajs.js",
+            "header":"/public/header/header-main"
+        }
+    });
+    seajs.use("/top/blog/singleblog/singleblog-main");
 </script>
 
 </html>
