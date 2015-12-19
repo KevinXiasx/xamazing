@@ -1,60 +1,119 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<title>Amazing</title>
-	<link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="/top/piclife/singlepic/singlepic.css"> <!-- less-css -->
-</head>
-<body>
-	<%include ../../../public/header/header %>
-	<section >
-		<div class="container">
-			<div class="row flexbox direc-col" id="row-1">
-				<% if(singlepic) {%>
-					<%= singlepic[0].content %>
-				<% } %>
-			</div>
-			<div class="row flexbox" id="row-2">
-				<% if(singlepic) {%>
-					<% if( singlepic[0].path instanceof Array ){ %>
-						<% for(var i = 0; i < singlepic[0].path.length; i++){%>
-						<a href="#portfolioModal1" class="portfolio-link " data-toggle="modal">
-							<img src="<%= singlepic[0].path[i] %>"></a>
-						<% } %>
-					<% } else { %>
-						<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal"><img src="<%= singlepic[0].path %>"></a>
-					<% } %>
-				<% } else {%>
-					<p>这图片比较害羞，你可以再访问试试</p>
-				<% } %>
-			</div>
-		</div>
-	</section>
+<html lang="zh">
 
-	<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="container">
-                <div class="modal-body flexbox direc-col">
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    <img src="" class="img-responsive img-centered" data-dismiss="modal" alt="">
-                </div>
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Piclife</title>
+
+    <link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/top/piclife/singlepic/singlepic.css"> <!-- less-css -->
+
+</head>
+
+<body>
+    <% include ../../../public/header/header %> 
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header"><%= singlepic[0].title %></h1>
+        <h3><%= singlepic[0].content %></h3>
+    </div>
+</div>
+<div class="row">
+    <% if( singlepic[0].path instanceof Array ){ %>
+        <% for(var i = 0; i < singlepic[0].path.length; i++){%>
+            <div class="col-md-3 portfolio-item text-center">
+                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                    <img class="img-responsive" src="<%= singlepic[0].path[i] %>" alt="">
+                </a>
             </div>
+        <% } %>
+    <% } else { %>
+        <div class="col-md-3 portfolio-item ">
+            <a href="#">
+                <img class="img-responsive" src="<%= singlepic[0].path %>" alt="">
+            </a>
+        </div>
+    <% } %>
+    
+</div>
+        <hr>
+
+<!--         <div class="row text-center">
+    <div class="col-lg-12">
+        <ul class="pagination">
+            <li>
+                <a href="#">&laquo;</a>
+            </li>
+            <li class="active">
+                <a href="#">1</a>
+            </li>
+            <li>
+                <a href="#">2</a>
+            </li>
+            <li>
+                <a href="#">3</a>
+            </li>
+            <li>
+                <a href="#">4</a>
+            </li>
+            <li>
+                <a href="#">5</a>
+            </li>
+            <li>
+                <a href="#">&raquo;</a>
+            </li>
+        </ul>
+    </div>
+</div>
+/.row -->
+
+        <hr>
+        <footer>
+            <div class="container text-center">
+                <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <a href="http://weibo.com/danjina" class="btn btn-default btn-lg"><i class="fa fa-weibo"></i> <span class="network-name"> 微博 </span></a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/KevinXiasx/xamazing" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                    </li>
+                </ul>
+                <p>Copyright &copy; KevinXia</p>
+            </div>
+        </footer>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" >
+      <div class="modal-dialog text-center" data-dismiss="modal"> 
+            <img src="" data-dismiss="modal" class="img-responsive img-rounded" alt="Responsive image" style="display: inline-block;">
         </div>
     </div>
+    <style type="text/css">
+    .navbar-custom{
+        background-color: black;
+    }
+    </style>
 </body>
-
 <script src="/public/lib/seajs-3.0.0/dist/sea.js"></script>
 <script>
-	// Set configuration
-	seajs.config({
-		alias: {
-			"jquery":"/public/lib/jquery/jquery-seajs.js",
-			"jq-trans": "/public/lib/jquery/jquery-transision-seajs.js",
-			"bootstrap":"/public/lib/bootstrap/js/bootstrap-seajs.js",
-			"less":"/public/lib/less.js"
-		}
-	});
-	seajs.use("/top/piclife/singlepic/singlepic-main");
+    // Set configuration
+    seajs.config({
+        alias: {
+            "jquery":"/public/lib/jquery/jquery-seajs.js",
+            "jq-trans": "/public/lib/jquery/jq-transision-seajs.js",
+            "bootstrap":"/public/lib/bootstrap/js/bootstrap-seajs.js",
+            "less":"/public/lib/less.js",
+            "easing":"/public/lib/jquery/jquery.easing.seajs.js",
+            "header":"/public/header/header-main"
+        }
+    });
+    seajs.use("/top/piclife/singlepic/singlepic-main");
 </script>
-
 </html>

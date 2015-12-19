@@ -1,1 +1,12 @@
-.flexbox{display:flex;justify-content:center;align-items:center}.direc-col{-webkit-flex-direction:column;flex-direction:column}.main-start{-webkit-justify-content:flex-start;justify-content:flex-start}.main-end{-webkit-justify-content:flex-end;justify-content:flex-end}.main-between{-webkit-justify-content:space-between;justify-content:space-between}.main-around{justify-content:space-around}.secon-start{-webkit-align-items:flex-start;align-items:flex-start}.secon-end{-webkit-align-items:flex-end;align-items:flex-end}.secon-between{-webkit-align-items:space-between;align-items:space-between}.secon-around{-webkit-align-items:space-around;align-items:space-around}.full{width:100%;height:100%}body{background-color:#0199cb}.container a .pic{width:300px;height:400px;background-position:center center;background-size:auto 100%;border-radius:4px}.container .row{margin-bottom:40px}
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.row{
+	max-height: 350px;
+}

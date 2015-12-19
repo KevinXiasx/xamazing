@@ -1,53 +1,38 @@
-@import "../../../public/flex.less";
+/*!
+ * Start Bootstrap - 4 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
 
-body{
-    background-color: @main-color;
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-.container{
-    #row-2{
-        a{
-            display: block;
-            width: 400px;
-            height: 350px;
-            img{
-                max-height: 100%;
-                max-width: 100%;
-                border-radius: 5px;
-            }
-        }
-
-    }
-    #row-1{
-        font-size: 20px;
-        color: white;
-        
-        &:after{
-            content: "点击查看大图";
-            color: black;
-            margin-top: 25px;
-            font-size: 15px;
-        }
-    }
+.portfolio-item {
+    margin-bottom: 25px;
 }
 
+.row .img-responsive{
+	max-height: 200px;
+}
+footer {
+    margin: 50px 0;
+}
 
 .portfolio-modal {
-    .modal-content {
-        border-radius: 0;
-        background-clip: border-box;
-        -webkit-box-shadow: none;
-        box-shadow: none;
-        border: none;
-        min-height: 100%;
-        padding: 0px;
-        text-align: center;
-            img {
-                    margin-bottom: 30px;
-                    cursor: pointer;
-            }
-            .item-details {
-                    margin: 30px 0;
-            }
-    }
+	img {
+		margin-bottom: 30px;
+		cursor: pointer;
+		display: inline-block;
+	}
+	.modal-dialog{
+		max-width:1000px;
+		width:auto;
+		height:auto;
+		text-align:center;
+	}
+	.carousel-control{
+		background-image: none;
+	}
+
 }

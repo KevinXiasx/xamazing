@@ -3,5 +3,4 @@ define(function(require, exports, module) {
     var $ = require('jquery');
     require('./grayscale.js');
     require('header');
-
 });

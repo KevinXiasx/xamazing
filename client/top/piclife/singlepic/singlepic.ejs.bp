@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Amazing</title>
+	<link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/top/piclife/singlepic/singlepic.css"> <!-- less-css -->
+</head>
+<body>
+	<%include ../../../public/header/header %>
+	<section >
+		<div class="container">
+			<div class="row flexbox direc-col" id="row-1">
+				<% if(singlepic) {%>
+					<%= singlepic[0].content %>
+				<% } %>
+			</div>
+			<div class="row flexbox" id="row-2">
+				<% if(singlepic) {%>
+					<% if( singlepic[0].path instanceof Array ){ %>
+						<% for(var i = 0; i < singlepic[0].path.length; i++){%>
+						<a href="#portfolioModal1" class="portfolio-link " data-toggle="modal">
+							<img src="<%= singlepic[0].path[i] %>"></a>
+						<% } %>
+					<% } else { %>
+						<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal"><img src="<%= singlepic[0].path %>"></a>
+					<% } %>
+				<% } else {%>
+					<p>这图片比较害羞，你可以再访问试试</p>
+				<% } %>
+			</div>
+		</div>
+	</section>
+
+	<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="container">
+                <div class="modal-body flexbox direc-col">
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    <img src="" class="img-responsive img-centered" data-dismiss="modal" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script src="/public/lib/seajs-3.0.0/dist/sea.js"></script>
+<script>
+	// Set configuration
+	seajs.config({
+		alias: {
+			"jquery":"/public/lib/jquery/jquery-seajs.js",
+			"jq-trans": "/public/lib/jquery/jquery-transision-seajs.js",
+			"bootstrap":"/public/lib/bootstrap/js/bootstrap-seajs.js",
+			"less":"/public/lib/less.js"
+		}
+	});
+	seajs.use("/top/piclife/singlepic/singlepic-main");
+</script>
+
+</html>

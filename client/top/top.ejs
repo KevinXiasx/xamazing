@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 
 <head>
 
@@ -72,11 +72,10 @@
         <% } else { %>
             <p>没有任何文章</p>
         <% } %>
-
     </section>
 
     <!-- Download Section -->
-    <section id="download" class="content-section text-center">
+    <section id="download" class="content-section ">
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
@@ -88,9 +87,9 @@
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" class="container content-section text-left">
+    <section id="contact" class="container content-section ">
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-lg-3 text-left" >
                 <figure class="seclogo"><h1><i class="fa fa-camera"></i>P</h1><h4>ic</h4>
                 <a href="/piclife"><button class="btn btn-default btn-lg">More</button></a>
                 </figure>
@@ -98,7 +97,7 @@
             <%var widthPer = 3;%>
             <% if (piclife) {%>
                 <% for(var m in piclife) {%>
-                <div class="col-lg-<%= widthPer%> ">
+                <div class="col-lg-<%= widthPer%> text-center ">
                     <a href="/singlepic?picid=<%= piclife[m].id %>" data-toggle="tooltip" data-placement="top" title="<%= piclife[m].title %>"><img class="img-circle pic" src="<%= ( piclife[m].path instanceof Array)? piclife[m].path[0]:piclife[m].path%>" /></a>
                 </div>
                 <% } %>

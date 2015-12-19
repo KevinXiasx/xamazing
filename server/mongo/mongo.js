@@ -98,10 +98,10 @@ let __getHandle = function(mongoType) {
     }
 }
 var __hangding = function(mongoType, data) {
-    for (let key in data){
+/*    for (let key in data){
         if(!keyType[mongoType][key])
             delete data[key];
-    }
+    }*/
     for (let j in keyType[mongoType]) {
         if (typeof data[j] === 'undefined') {
             switch (keyType[mongoType][j]) {
