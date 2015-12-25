@@ -43,12 +43,12 @@
                 <% if (blog) {%>
                     <% for(var i in blog) {%>
                         <div class="post-preview">
-                            <a href="/singleblog?blogid=<%= blog[i].id %>">
-                                <h2 class="post-title"><%= blog[i].title %></h2> 
+                            <a href="/singleblog?blogid=<%= blog[i].idfunc() %>">
+                                <h2 class="post-title"><%= blog[i].titlefunc() %></h2> 
 
-                                <h3 class="post-subtitle"><%= blog[i].content.substr(0, 60) %></h3>
+                                <h3 class="post-subtitle"><%= blog[i].contentfunc().substr(0, 60) %></h3>
                             </a>
-                            <p class="post-meta">write by <%= blog[i].author %> <span class=createtime>on <%= blog[i].createtime.toLocaleString() %></span></p>
+                            <p class="post-meta">write by <%= blog[i].authorfunc() %> <span class=createtime>on <%= blog[i].createtimefunc().toLocaleString() %></span></p>
                         </div>
                         <hr>
                     <% } %>

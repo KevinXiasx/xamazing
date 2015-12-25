@@ -197,7 +197,8 @@ class MongoSave {
             finaldoc.save(err => {
                 if (err)
                     logger.error('when create new ' + this.type + ' mongo , ' + err);
-                callback(err);
+                if(callback)
+                    callback(err);
             });
         });
     }

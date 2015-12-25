@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>AMAZING</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/public/lib/bootstrap/css/animate.min.css">
+    <!-- Custom CSS -->
+    <link href="/top/creative.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/public/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top">
+
+    <%include ../public/header/header %>
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>AMAZING</h1>
+                <hr>
+                <p>论，如何成为一个优雅的程序员</p>
+                <a href="#blog" class="btn btn-primary btn-xl page-scroll wow bounceIn">GO</a>
+            </div>
+        </div>
+    </header>   
+    <section class="bg-primary" id="blog">
+        <div class="container">
+        <% if (blog) {%>
+            <div class="row text-left">
+                <div class="col-lg-2 col-lg-offset-1 wow tada">
+                    <figure class="seclogo"><h1><i class="fa fa-pencil"></i>B</h1><h4>log</h4>
+                    <a href="/blog"><button class="btn btn-default btn-lg">More</button></a>
+                    </figure>
+                </div>
+                <div class="col-lg-7 ">
+                    <% for(var i in blog) {%>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <a href="/singleblog?blogid=<%= blog[i].id %> " class="wow bounceIn">
+                                <div class="blogtitle"><h3><%= blog[i].titlefunc() %></h3> <span class="author">write by <%= blog[i].authorfunc() %></span> <span class=createtime>on <%= blog[i].createtimefunc().toLocaleString() %></span></div>
+                                <p class="blogcontent"><%= blog[i].contentfunc().substr(0, 60) %> ...</p>
+                            </a>
+                        </div>
+                    </div>
+                    <% } %>
+                </div>
+            </div>
+        <% } else { %>
+            <p>没有任何文章</p>
+        <% } %>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">若企及不到优雅？</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x  fa-check-circle wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3>2B程序员</h3>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-check-circle wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3>逗比程序员</h3>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-close wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>普通程序员</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <aside class="bg-primary">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Piclife</h2>
+                <a href="/piclife" class="btn btn-default btn-xl wow tada">More</a>
+            </div>
+        </div>
+    </aside>
+    <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter">
+             <% if (piclife) {%>
+                <% for(var m in piclife) {%>
+                <div class="col-lg-4 col-sm-6 text-center">
+                    <a href="/singlepic?picid=<%= piclife[m].idfunc() %>" class="portfolio-box">
+                        <img src="<%= piclife[m].pathfunc()[0]%>" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    <%=  piclife[m].titlefunc() %>
+                                </div>
+                                <div class="project-name">
+                                    <%=  piclife[m].contentfunc() %>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <%}%>
+                <% } else { %>
+                <p>没有任何照片</p>
+            <% } %>
+            </div>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <ul class="list-inline banner-social-buttons">
+                <li>
+                    <a href="http://weibo.com/danjina" class="btn btn-default btn-lg"><i class="fa fa-weibo"></i> <span class="network-name"> 微博 </span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/KevinXiasx/xamazing" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                </li>
+            </ul>
+            <p>Copyright &copy; KevinXia</p>
+        </div>
+    </footer>
+
+</body>
+<script src="/public/lib/seajs-3.0.0/dist/sea.js"></script>
+<script>
+    // Set configuration
+    seajs.config({
+        alias: {
+            "jquery":"/public/lib/jquery/jquery-seajs.js",
+            "jq-trans": "/public/lib/jquery/jq-transision-seajs.js",
+            "bootstrap":"/public/lib/bootstrap/js/bootstrap-seajs.js",
+            "easing":"/public/lib/jquery/jquery.easing.seajs.js",
+            "fittext":"/public/lib/jquery/jquery.fittext.seajs.js",
+            "header":"/public/header/header-main",
+            "wow":"/public/lib/bootstrap/js/wow.seajs.js"
+        }
+    });
+    seajs.use("/top/top-main");
+</script>
+</html>

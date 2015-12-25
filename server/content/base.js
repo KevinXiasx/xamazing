@@ -3,61 +3,65 @@
 let mongo = require('../mongo/mongo');
 let co = require('co');
 let inputCheck = require('../safe/inputcheck');
+
+
 class BaseContent {
-    constructor(type) {
-        this.extracter = mongo.createMongoExtract(type);
-        this.type = type;
-        this.deal = function(doc, opt) {
-            return doc;
-        };
+    static getCurrentFunc(type, classs) {
+    	return function (size) {
+    		return new Promise(resolve => {
+	    		var extracter = mongo.createMongoExtract(type);
+	            extracter.getDocIndex(0, size, doc => {
+	                resolve(doc.map(x=>{return new classs(x)}));
+	            });
+	        });
+    	}
     }
 
-    getCurrent(size, opt) {
-        return new Promise(resolve => {
-            console.log(size);
-            this.extracter.getDocIndex(0, size, doc => {
-                console.log(doc);
-                resolve(this.deal(doc, opt));
-            });
-        });
+    static getRangFunc(type, classs) {
+    	return function(from, size){
+	        return new Promise(resolve => {
+	        	var extracter = mongo.createMongoExtract(type);
+	            extracter.getDocIndex(from, size, doc => {
+	                resolve(doc.map(x=>{return new classs(x)}));
+	            });
+	        });
+	    };
     }
 
-    getRang(from, size, opt) {
-        return new Promise(resolve => {
-            this.extracter.getDocIndex(from, size, doc => {
-                resolve(this.deal(doc, opt));
-            });
-        });
+    static searchFunc(type, classs) {
+    	return function (cond) {
+	        return new Promise(resolve => {
+				var extracter = mongo.createMongoExtract(type);
+	            extracter.getDocByCond(cond, doc => {
+	                resolve(doc.map(x=>{return new classs(x)}));
+	            });
+	        });
+	    };
     }
 
-    search(cond, opt) {
-        return new Promise(resolve => {
-            this.extracter.getDocByCond(cond, doc => {
-                resolve(this.deal(doc, opt));
-            });
-        });
+    static getByIdFunc(type, classs) {
+    	return function (id) {
+	        return new Promise(resolve => {
+	        	var extracter = mongo.createMongoExtract(type);
+	            var isNumber = inputCheck.isType('Number');
+	            var isString = inputCheck.isType('String');
+	            if (isString(id))
+	                id = parseInt(id);
+	            if (isNumber(id) && !Number.isNaN(id)) {
+	                extracter.getDocByCond({
+	                    'id': id
+	                }, doc => {
+		                resolve(doc.map(x=>{return new classs(x)}));
+	                });
+	            } else
+	                throw new Error('id type err');
+	        });
+	    }
     }
 
-    getById(id, opt) {
+    static add(type, content) {
         return new Promise(resolve => {
-            var isNumber = inputCheck.isType('Number');
-            var isString = inputCheck.isType('String');
-            if (isString(id))
-                id = parseInt(id);
-            if (isNumber(id) && !Number.isNaN(id)) {
-                this.extracter.getDocByCond({
-                    'id': id
-                }, doc => {
-                    resolve(this.deal(doc, opt));
-                });
-            } else
-                throw new Error('id type err');
-        });
-    }
-
-    add(content) {
-        return new Promise(resolve => {
-            let saver = mongo.createMongoSave(this.type, content);
+            let saver = mongo.createMongoSave(type, content);
             saver.save();
         });
     }

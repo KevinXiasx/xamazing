@@ -1,8 +1,10 @@
 'use strict';
 
-var Base = require('./base')
-var marked = require('marked');
-class Blog{
+var Base = require('./base');
+var inputcheck = require('../safe/inputcheck');
+var isArray = inputcheck.isType('Array');
+
+class Piclife{
 	constructor(doc){
 		if(doc._id){
 			this.mongoDate = doc;
@@ -12,6 +14,10 @@ class Blog{
 		this.content = doc.content;
 		this.createtime = doc.createtime;
 		this.author = doc.author;
+		if(!isArray(doc.path))
+			this.path = Array.of(doc.path);
+		else
+			this.path = doc.path;
 	}
 
 	idfunc(){
@@ -25,13 +31,11 @@ class Blog{
 			return this.title;
 	}
 
-	contentMark(){
-		return marked(this.content);
-	}
 	contentfunc(newcontent){
 		if(newcontent)
 			this.content = newcontent;
 		else{
+			console.log('here');
 			return this.content;
 		}
 	}
@@ -50,6 +54,20 @@ class Blog{
 			return this.author;
 	}
 
+	pathfunc(newpath){
+		if(newpath)
+			this.path = newpath;
+		else
+			return this.path;
+	}
+
+	addpicpath(p){
+		if(isArray(p))
+			this.path.push(p);
+		else
+			this.path = Array.of(this.push, p);
+	}
+
 	save(){
 		if(this.mongoDate){
 			this.mongoDate.id = this.id;
@@ -57,6 +75,7 @@ class Blog{
 			this.mongoDate.content = this.content;
 			this.mongoDate.author = this.author;
 			this.mongoDate.createtime = this.createtime;
+			this.mongoDate.path = this.path;
 			this.mongoDate.save();
 			return ;
 		}else{
@@ -66,14 +85,15 @@ class Blog{
 			con.content = this.content;
 			con.author = this.author;
 			con.createtime = this.createtime;
-			Base.add('blog', con);
+			con.path = this.path;
+			Base.add('pic', con);
 		}
 	}
 }
 
-Blog.getCurrent = Base.getCurrentFunc('blog', Blog);
-Blog.getRang = Base.getRangFunc('blog', Blog);
-Blog.search = Base.searchFunc('blog', Blog);
-Blog.getById = Base.getByIdFunc('blog', Blog);
+Piclife.getCurrent = Base.getCurrentFunc('pic', Piclife);
+Piclife.getRang = Base.getRangFunc('pic', Piclife);
+Piclife.search = Base.searchFunc('pic', Piclife);
+Piclife.getById = Base.getByIdFunc('pic', Piclife);
 
-module.exports = Blog;
+module.exports = Piclife;

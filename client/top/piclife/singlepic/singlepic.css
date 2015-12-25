@@ -2,4 +2,4 @@
  * Start Bootstrap - 4 Col Portfolio HTML Template (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */body{padding-top:70px}.portfolio-item{margin-bottom:25px}.row .img-responsive{max-height:200px}footer{margin:50px 0}.portfolio-modal img{margin-bottom:30px;cursor:pointer;display:inline-block}.portfolio-modal .modal-dialog{max-width:1000px;width:auto;height:auto;text-align:center}.portfolio-modal .carousel-control{background-image:none}
+ */body{padding-top:70px}.portfolio-item{margin-bottom:25px}.row .img-responsive{display:inline-block;max-height:200px}footer{margin:50px 0}.portfolio-modal img{margin-bottom:30px;cursor:pointer;display:inline-block}.portfolio-modal .modal-dialog{max-width:1000px;width:auto;height:auto;text-align:center}.portfolio-modal .carousel-control{background-image:none}
