@@ -28,7 +28,6 @@ var dealblog = function (files) {
             var imgReg = /\[!.+\]\((?!\/images\/).*?\)/;
             var eventcallback = function (imgfile){
                 co(function* () {
-                    console.log(blog.contentfunc().indexOf(imgfile.upload.name));
                     if(blog.contentfunc().indexOf(imgfile.upload.name) == -1)
                         return;
                     const savePath = path.join(__dirname, "../../client/images/blog/");
