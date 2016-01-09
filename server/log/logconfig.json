@@ -5,7 +5,7 @@
       "appenders": [
         {
           "type": "file",
-          "filename": "log/logs/app.log",
+          "filename": "server/log/logs/app.log",
           "maxLogSize": 10485760,
           "numBackups": 3
         },
@@ -14,7 +14,7 @@
           "level": "ERROR",
           "appender": {
             "type": "file",
-            "filename": "log/logs/errors.log"
+            "filename": "server/log/logs/errors.log"
           }
         }
       ]

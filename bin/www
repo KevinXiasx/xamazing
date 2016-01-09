@@ -4,6 +4,7 @@
  * Module dependencies.
  */
 
+var path = require('path');
 var app = require('../app');
 var debug = require('debug')('amazing:server');
 var http = require('http');
@@ -12,7 +13,7 @@ var http = require('http');
  * Get port from environment and store in Express.
  */
 var log4js = require('log4js');
-log4js.configure('./log/logconfig.json');
+log4js.configure(path.join(__dirname, '../server/log/logconfig.json'));
 var log = log4js.getLogger("startup");
 
 var port = normalizePort(process.env.PORT || '3003');
