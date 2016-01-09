@@ -9,6 +9,9 @@ var routes = require('./routes/index');
 var users = require('./routes/users');
 var adminpush = require('./routes/adminpush');
 
+var log4js = require('log4js');
+var loggers = log4js.getLogger('app');
+loggers.setLevel('INFO');
 
 
 var app = express();
@@ -26,6 +29,7 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(cookieParser());
 app.use(require('less-middleware')(path.join(__dirname, 'client')));
+app.use(log4js.connectLogger(log4js.getLogger("http"), { level: 'auto' }));
 app.use(express.static(path.join(__dirname, 'client')));
 
 app.use('/', routes);
