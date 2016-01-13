@@ -34,7 +34,7 @@ app.use(express.static(path.join(__dirname, 'client')));
 
 app.use('/', routes);
 app.use('/users', users);
-//app.use('/adminpush', adminpush);
+app.use('/adminpush', adminpush);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

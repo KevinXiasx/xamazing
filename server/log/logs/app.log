@@ -99,3 +99,656 @@
 [2016-01-09 14:10:23.558] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
 [2016-01-09 14:10:23.592] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
 [2016-01-09 14:10:23.595] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.358] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 10401 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.410] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.412] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.414] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.414] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.419] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.422] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.423] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.581] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 200 12309 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.585] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 200 1624 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.586] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 200 46 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.638] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.710] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 304 - "http://localhost:3003/public/lib/font-awesome/css/font-awesome.min.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.712] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.727] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.729] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.732] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.733] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.772] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.794] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-09 16:47:38.795] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-13 11:33:45.886] [ERROR] http - ::ffff:127.0.0.1 - - "POST / HTTP/1.1" 404 120 "" "curl/7.43.0"
+[2016-01-13 17:50:47.869] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:53:35.002] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:55:38.952] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:56:10.943] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:56:31.719] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:57:25.268] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:57:35.394] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:57:52.087] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:58:21.643] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:58:44.655] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:59:35.103] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:59:35.105] [DEBUG] picfile - undefined
+[2016-01-13 17:59:48.907] [DEBUG] picfile - picfile begin deal
+[2016-01-13 17:59:48.910] [DEBUG] picfile - { global: [Circular],
+  process: 
+   process {
+     title: 'node',
+     version: 'v5.2.0',
+     moduleLoadList: 
+      [ 'Binding contextify',
+        'Binding natives',
+        'NativeModule events',
+        'NativeModule buffer',
+        'Binding buffer',
+        'NativeModule internal/util',
+        'Binding util',
+        'NativeModule timers',
+        'Binding timer_wrap',
+        'NativeModule internal/linkedlist',
+        'NativeModule assert',
+        'NativeModule util',
+        'Binding uv',
+        'NativeModule path',
+        'NativeModule module',
+        'NativeModule internal/module',
+        'NativeModule vm',
+        'NativeModule fs',
+        'Binding fs',
+        'NativeModule constants',
+        'Binding constants',
+        'NativeModule stream',
+        'NativeModule _stream_readable',
+        'NativeModule _stream_writable',
+        'NativeModule _stream_duplex',
+        'NativeModule _stream_transform',
+        'NativeModule _stream_passthrough',
+        'Binding fs_event_wrap',
+        'NativeModule tty',
+        'NativeModule net',
+        'Binding cares_wrap',
+        'Binding tty_wrap',
+        'Binding tcp_wrap',
+        'Binding pipe_wrap',
+        'Binding stream_wrap',
+        'Binding signal_wrap',
+        'NativeModule http',
+        'NativeModule _http_incoming',
+        'NativeModule _http_common',
+        'NativeModule internal/freelist',
+        'Binding http_parser',
+        'NativeModule _http_outgoing',
+        'NativeModule _http_server',
+        'NativeModule _http_agent',
+        'NativeModule _http_client',
+        'NativeModule url',
+        'NativeModule punycode',
+        'NativeModule querystring',
+        'NativeModule crypto',
+        'Binding crypto',
+        'NativeModule internal/streams/lazy_transform',
+        'NativeModule string_decoder',
+        'NativeModule tls',
+        'NativeModule _tls_common',
+        'NativeModule _tls_wrap',
+        'NativeModule _stream_wrap',
+        'Binding js_stream',
+        'Binding tls_wrap',
+        'NativeModule _tls_legacy',
+        'NativeModule console',
+        'NativeModule os',
+        'Binding os',
+        'NativeModule child_process',
+        'Binding spawn_sync',
+        'NativeModule internal/child_process',
+        'NativeModule dgram',
+        'Binding udp_wrap',
+        'Binding process_wrap',
+        'NativeModule internal/socket_list',
+        'NativeModule zlib',
+        'Binding zlib',
+        'NativeModule cluster',
+        'NativeModule internal/cluster',
+        'NativeModule dns' ],
+     versions: 
+      { http_parser: '2.6.0',
+        node: '5.2.0',
+        v8: '4.6.85.31',
+        uv: '1.7.5',
+        zlib: '1.2.8',
+        ares: '1.10.1-DEV',
+        icu: '56.1',
+        modules: '47',
+        openssl: '1.0.2e' },
+     arch: 'x64',
+     platform: 'linux',
+     release: 
+      { name: 'node',
+        sourceUrl: 'https://nodejs.org/download/release/v5.2.0/node-v5.2.0.tar.gz',
+        headersUrl: 'https://nodejs.org/download/release/v5.2.0/node-v5.2.0-headers.tar.gz' },
+     argv: 
+      [ '/home/kevin/tools/node-v5.2.0-linux-x64/bin/node',
+        '/home/kevin/project_c/xamazing/bin/www' ],
+     execArgv: [ '--harmony' ],
+     env: 
+      { LESSOPEN: '| /usr/bin/lesspipe %s',
+        ARCH: 'arm',
+        GNOME_KEYRING_PID: '',
+        USER: 'kevin',
+        LANGUAGE: 'zh_CN:en',
+        UPSTART_INSTANCE: '',
+        LC_TIME: 'zh_CN.UTF-8',
+        XDG_SEAT: 'seat0',
+        SESSION: 'ubuntu',
+        XDG_SESSION_TYPE: 'x11',
+        COMPIZ_CONFIG_PROFILE: 'ubuntu',
+        SHLVL: '1',
+        HOME: '/home/kevin',
+        QT4_IM_MODULE: 'fcitx',
+        OLDPWD: '/home/kevin/project_c/landing',
+        JRE_HOME: '/home/kevin/tools/jdk/jre',
+        DESKTOP_SESSION: 'ubuntu',
+        GIO_LAUNCHED_DESKTOP_FILE: '/usr/share/applications/tilda.desktop',
+        GTK_MODULES: 'unity-gtk-module',
+        XDG_SEAT_PATH: '/org/freedesktop/DisplayManager/Seat0',
+        ANT_ROOT: '/usr/share/ant/bin',
+        LC_MONETARY: 'zh_CN.UTF-8',
+        INSTANCE: '',
+        UNZIP: '-O GBK',
+        DBUS_SESSION_BUS_ADDRESS: 'unix:abstract=/tmp/dbus-8qLIEPpKzO',
+        GIO_LAUNCHED_DESKTOP_FILE_PID: '1629',
+        GNOME_KEYRING_CONTROL: '',
+        QT_QPA_PLATFORMTHEME: 'appmenu-qt5',
+        MANDATORY_PATH: '/usr/share/gconf/ubuntu.mandatory.path',
+        IM_CONFIG_PHASE: '1',
+        SESSIONTYPE: 'gnome-session',
+        UPSTART_JOB: 'unity7',
+        LOGNAME: 'kevin',
+        CROSS_COMPILE: '/usr/local/',
+        GTK_IM_MODULE: 'fcitx',
+        NDK_ROOT: '/home/kevin/tools/android_studio/android-studio/plugins/android-ndk/android-ndk-r10',
+        _: '/home/kevin/tools/node-v5.2.0-linux-x64/bin/nodemon',
+        DEFAULTS_PATH: '/usr/share/gconf/ubuntu.default.path',
+        XDG_SESSION_ID: 'c2',
+        TERM: 'xterm',
+        GNOME_DESKTOP_SESSION_ID: 'this-is-deprecated',
+        GTK2_MODULES: 'overlay-scrollbar',
+        PATH: '/usr/share/ant/bin:/home/kevin/Android/Sdk/tools:/home/kevin/Android/Sdk/platform-tools:/home/kevin/Android/Sdk:/home/kevin/tools/android_studio/android-studio/plugins/android-ndk/android-ndk-r10:/home/kevin/tools/templates:/home/kevin/tools/tools/cocos2d-console/bin:/home/kevin/tools/android_studio/android-studio/bin:/home/kevin/tools/depot_tools:/home/kevin/tools/node-v5.2.0-linux-x64/bin:/home/kevin/tools/jdk/bin:/home/kevin/tools/node-v4.2.1-linux-x64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/kevin/.vimpkg/bin',
+        GDM_LANG: 'zh_CN',
+        PAPERSIZE: 'a4',
+        LC_ADDRESS: 'zh_CN.UTF-8',
+        XDG_SESSION_PATH: '/org/freedesktop/DisplayManager/Session0',
+        XDG_RUNTIME_DIR: '/run/user/1000',
+        COMPIZ_BIN_PATH: '/usr/bin/',
+        DISPLAY: ':0',
+        LC_TELEPHONE: 'zh_CN.UTF-8',
+        LANG: 'zh_CN.UTF-8',
+        XDG_CURRENT_DESKTOP: 'Unity',
+        LS_COLORS: 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:',
+        XMODIFIERS: '@im=fcitx',
+        XDG_SESSION_DESKTOP: 'ubuntu',
+        XAUTHORITY: '/home/kevin/.Xauthority',
+        XDG_GREETER_DATA_DIR: '/var/lib/lightdm-data/kevin',
+        SSH_AUTH_SOCK: '/run/user/1000/keyring/ssh',
+        SHELL: '/bin/bash',
+        LC_NAME: 'zh_CN.UTF-8',
+        GDMSESSION: 'ubuntu',
+        LESSCLOSE: '/usr/bin/lesspipe %s %s',
+        LC_MEASUREMENT: 'zh_CN.UTF-8',
+        UPSTART_EVENTS: 'xsession started',
+        ANDROID_SDK_ROOT: '/home/kevin/Android/Sdk',
+        UPSTART_SESSION: 'unix:abstract=/com/ubuntu/upstart-session/1000/969',
+        LC_IDENTIFICATION: 'zh_CN.UTF-8',
+        CLASSPATH: '.:/home/kevin/tools/jdk/lib:/home/kevin/tools/jdk/jre/lib',
+        XDG_VTNR: '7',
+        QT_IM_MODULE: 'fcitx',
+        ZIPINFO: '-O GBK',
+        PWD: '/home/kevin/project_c/xamazing',
+        JAVA_HOME: '/home/kevin/tools/jdk',
+        CLUTTER_IM_MODULE: 'xim',
+        XDG_CONFIG_DIRS: '/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg',
+        XDG_DATA_DIRS: '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/',
+        LC_NUMERIC: 'zh_CN.UTF-8',
+        COCOS_CONSOLE_ROOT: '/home/kevin/tools/tools/cocos2d-console/bin',
+        COCOS_TEMPLATES_ROOT: '/home/kevin/tools/templates',
+        LC_PAPER: 'zh_CN.UTF-8',
+        VTE_VERSION: '3603',
+        JOB: 'unity-settings-daemon' },
+     pid: 10794,
+     features: 
+      { debug: false,
+        uv: true,
+        ipv6: true,
+        tls_npn: true,
+        tls_alpn: true,
+        tls_sni: true,
+        tls_ocsp: true,
+        tls: true },
+     _needImmediateCallback: false,
+     execPath: '/home/kevin/tools/node-v5.2.0-linux-x64/bin/node',
+     debugPort: 5858,
+     _startProfilerIdleNotifier: [Function: _startProfilerIdleNotifier],
+     _stopProfilerIdleNotifier: [Function: _stopProfilerIdleNotifier],
+     _getActiveRequests: [Function: _getActiveRequests],
+     _getActiveHandles: [Function: _getActiveHandles],
+     reallyExit: [Function: reallyExit],
+     abort: [Function: abort],
+     chdir: [Function],
+     cwd: [Function],
+     umask: [Function: umask],
+     getuid: [Function: getuid],
+     geteuid: [Function: geteuid],
+     setuid: [Function: setuid],
+     seteuid: [Function: seteuid],
+     setgid: [Function: setgid],
+     setegid: [Function: setegid],
+     getgid: [Function: getgid],
+     getegid: [Function: getegid],
+     getgroups: [Function: getgroups],
+     setgroups: [Function: setgroups],
+     initgroups: [Function: initgroups],
+     _kill: [Function: _kill],
+     _debugProcess: [Function: _debugProcess],
+     _debugPause: [Function: _debugPause],
+     _debugEnd: [Function: _debugEnd],
+     hrtime: [Function: hrtime],
+     dlopen: [Function: dlopen],
+     uptime: [Function: uptime],
+     memoryUsage: [Function: memoryUsage],
+     binding: [Function: binding],
+     _linkedBinding: [Function: _linkedBinding],
+     _setupDomainUse: [Function: _setupDomainUse],
+     _events: 
+      { newListener: [Function],
+        removeListener: [Function],
+        SIGWINCH: [Object],
+        exit: [Function] },
+     _rawDebug: [Function],
+     domain: null,
+     _maxListeners: undefined,
+     EventEmitter: 
+      { [Function: EventEmitter]
+        EventEmitter: [Circular],
+        usingDomains: [Getter/Setter],
+        defaultMaxListeners: 10,
+        init: [Function],
+        listenerCount: [Function] },
+     _fatalException: [Function],
+     _exiting: false,
+     assert: [Function],
+     config: { target_defaults: [Object], variables: [Object] },
+     nextTick: [Function: nextTick],
+     _tickCallback: [Function: _tickCallback],
+     _tickDomainCallback: [Function: _tickDomainCallback],
+     stdout: [Getter],
+     stderr: [Getter],
+     stdin: [Getter],
+     openStdin: [Function],
+     exit: [Function],
+     kill: [Function],
+     _eventsCount: NaN,
+     mainModule: 
+      Module {
+        id: '.',
+        exports: {},
+        parent: null,
+        filename: '/home/kevin/project_c/xamazing/bin/www',
+        loaded: true,
+        children: [Object],
+        paths: [Object] },
+     _immediateCallback: [Function: processImmediate] },
+  GLOBAL: [Circular],
+  root: [Circular],
+  Buffer: 
+   { [Function: Buffer]
+     poolSize: 8192,
+     isBuffer: [Function: isBuffer],
+     compare: [Function: compare],
+     isEncoding: [Function],
+     concat: [Function],
+     byteLength: [Function: byteLength] },
+  clearImmediate: [Function],
+  clearInterval: [Function],
+  clearTimeout: [Function],
+  setImmediate: [Function],
+  setInterval: [Function],
+  setTimeout: [Function],
+  console: [Getter] }
+[2016-01-13 18:00:28.355] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:00:28.358] [DEBUG] picfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_a26a505566c1fca8beba30b9fcd943de.jpg',
+     ext: '.jpg',
+     name: 'upload_a26a505566c1fca8beba30b9fcd943de',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_a26a505566c1fca8beba30b9fcd943de.jpg' } }
+[2016-01-13 18:01:43.569] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:01:43.574] [DEBUG] picfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_53d6341e826c2279bafe834201b94dce.jpg',
+     ext: '.jpg',
+     name: 'upload_53d6341e826c2279bafe834201b94dce',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_53d6341e826c2279bafe834201b94dce.jpg' } }
+[2016-01-13 18:01:43.595] [DEBUG] filework - hee
+[2016-01-13 18:01:43.596] [DEBUG] filework - /home/kevin/project_c/xamazing/client/images/pushimgtd.jpg
+[2016-01-13 18:01:43.605] [DEBUG] filework - [ true ]
+[2016-01-13 18:01:43.608] [DEBUG] filework - /home/kevin/project_c/xamazing/client/images/pushimgtd.jpg
+[2016-01-13 18:03:48.951] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:03:49.000] [ERROR] picfile - null
+[2016-01-13 18:05:39.393] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:06:17.599] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:06:17.652] [ERROR] picfile - compress:null
+[2016-01-13 18:06:24.466] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:06:24.518] [ERROR] picfile - compress:null
+[2016-01-13 18:06:43.393] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:06:43.438] [ERROR] picfile - compress:null
+[2016-01-13 18:07:06.899] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:07:06.953] [ERROR] picfile - compress:null
+[2016-01-13 18:07:20.983] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:08:53.640] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:10:44.123] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:10:44.130] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-td.jpg -resize 320x280 /home/kevin/project_c/xamazing/client/images/pushimg/min/T-td.jpg
+[2016-01-13 18:12:34.895] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:13:28.179] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:57:31.943] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:58:16.470] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:59:02.936] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:59:25.355] [DEBUG] picfile - picfile begin deal
+[2016-01-13 18:59:25.415] [DEBUG] picfile - com
+[2016-01-13 19:01:26.157] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:01:26.213] [DEBUG] picfile - com
+[2016-01-13 19:02:18.236] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:02:18.291] [DEBUG] picfile - com
+[2016-01-13 19:02:51.879] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:02:51.938] [DEBUG] picfile - com
+[2016-01-13 19:02:59.291] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:02:59.358] [DEBUG] picfile - com
+[2016-01-13 19:02:59.359] [DEBUG] picfile - com2
+[2016-01-13 19:04:20.296] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:04:20.306] [DEBUG] filework - com3
+[2016-01-13 19:04:20.359] [DEBUG] picfile - com
+[2016-01-13 19:04:20.360] [DEBUG] picfile - com2
+[2016-01-13 19:04:59.447] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:04:59.497] [DEBUG] picfile - com
+[2016-01-13 19:04:59.498] [DEBUG] picfile - com2
+[2016-01-13 19:06:38.163] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:06:56.015] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:06:56.071] [DEBUG] picfile - [Function]
+[2016-01-13 19:08:16.222] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:08:16.283] [DEBUG] picfile - [Function]
+[2016-01-13 19:12:13.299] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:12:13.366] [DEBUG] picfile - here2
+[2016-01-13 19:12:13.366] [DEBUG] picfile - here
+[2016-01-13 19:12:13.376] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:13:35.067] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:13:35.138] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:25:19.422] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:25:19.491] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:25:44.052] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:25:44.119] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:26:46.760] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:26:46.831] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:27:53.671] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:27:53.735] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:28:55.591] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:28:55.666] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:29:27.823] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:29:27.893] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:29:27.942] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:30:05.003] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:30:24.161] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:30:24.282] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:30:24.334] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:30:24.346] [DEBUG] blogfile - <Buffer 7b 0a 09 22 74 69 74 6c 65 22 3a 22 74 65 73 74 73 73 73 22 2c 0a 09 22 73 64 66 22 3a 22 73 64 66 22 2c 0a 09 22 74 79 70 65 22 3a 22 62 6c 6f 67 22 ... >
+[2016-01-13 19:30:50.037] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:30:50.101] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:30:50.150] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:30:50.158] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:31:08.579] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:31:08.647] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:31:08.694] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:31:08.695] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:31:24.959] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:31:25.021] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:31:25.074] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:31:25.077] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:31:25.077] [DEBUG] blogfile - null
+[2016-01-13 19:33:50.959] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:33:51.029] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:33:51.086] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:33:51.088] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:33:51.088] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 19:34:20.429] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:34:20.431] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:34:20.432] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 19:35:04.876] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:35:04.882] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:35:04.883] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 19:35:34.308] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:35:34.313] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:35:34.314] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 19:35:34.317] [DEBUG] blogfile - he
+[2016-01-13 19:36:26.984] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:36:26.989] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:36:26.990] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 19:36:26.992] [DEBUG] blogfile - he
+[2016-01-13 19:36:41.516] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:36:41.522] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:36:41.522] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 19:36:41.525] [DEBUG] blogfile - he
+[2016-01-13 19:37:04.306] [DEBUG] blogfile - begin read blog file
+[2016-01-13 19:37:04.314] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-13 19:37:04.314] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 19:37:04.317] [DEBUG] blogfile - he
+[2016-01-13 19:37:04.318] [DEBUG] blogfile - sdf
+[2016-01-13 19:37:04.326] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 19:37:04.373] [DEBUG] picfile - picfile begin deal
+[2016-01-13 19:37:04.439] [DEBUG] blogfile - { root: '/',
+  dir: '/home/kevin/project_c/xamazing/client/images',
+  base: 'td.jpg',
+  ext: '.jpg',
+  name: 'td',
+  path: '/home/kevin/project_c/xamazing/client/images/td.jpg' }
+[2016-01-13 19:37:04.454] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:30:11.893] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 20:30:11.906] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:30:11.954] [DEBUG] picfile - picfile begin deal
+[2016-01-13 20:31:29.117] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 20:31:29.138] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:31:29.186] [DEBUG] picfile - picfile begin deal
+[2016-01-13 20:34:18.804] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 20:34:18.820] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:34:18.870] [DEBUG] picfile - picfile begin deal
+[2016-01-13 20:35:08.815] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-13 20:35:08.828] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:35:08.881] [DEBUG] picfile - picfile begin deal
+[2016-01-13 20:36:18.076] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:36:18.122] [DEBUG] picfile - picfile begin deal
+[2016-01-13 20:36:18.198] [DEBUG] blogfile - 3
+[2016-01-13 20:37:05.676] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:37:05.726] [DEBUG] picfile - picfile begin deal
+[2016-01-13 20:37:05.802] [DEBUG] blogfile - 3
+[2016-01-13 20:39:09.775] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-13 20:39:09.822] [DEBUG] picfile - picfile begin deal
+[2016-01-13 20:39:09.890] [DEBUG] blogfile - 3

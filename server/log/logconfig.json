@@ -16,6 +16,10 @@
             "type": "file",
             "filename": "server/log/logs/errors.log"
           }
+        },
+        {
+          "type": "console",
+          "level": "debug"
         }
       ]
     }
