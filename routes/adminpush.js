@@ -11,7 +11,7 @@ var Recv = require('../server/transport');
 router.post('/', (req, res, next) => {
     Recv.recvfile(req).then(doc=>{
         res.send('sd');
-    })
+    });
 })
 
 module.exports = router;

@@ -36,10 +36,20 @@ class BlogFile extends FileWorker{
 						resolve(null);
 					}else
 						self.content = result[1].toString();
-					var array = self.content.match(/!\[.+\]\((?!\/images\/).*?\)/g);
-					self.waitArray = array.map(x=>{
+					var contentPicArray = self.content.match(/!\[.+\]\((?!\/images\/).*?\)/g);
+					var headerPicArray ;
+					logger.debug(self.content);
+					try{
+						var str = self.content.match(/"path"(.|\n)+?(\[(.|\n)+?\])/m)[2];
+						headerPicArray = JSON.parse(str);
+					}catch(e){
+						logger.error('parse pic path fail , file :'+self.oldAddr.name);
+					}
+					self.waitArray = contentPicArray.map(x=>{
 						return x.match(/\((.+)\)/)[1];
 					})
+					self.waitArray = Array.from([...self.waitArray, ...headerPicArray]);
+					logger.debug(self.waitArray);
 					resolve(self.waitArray);
 				}else
 					resolve(self.waitArray);
@@ -51,7 +61,7 @@ class BlogFile extends FileWorker{
 		const self = this;
 		return new Promise((resolve, reject)=>{
 			co(function* () {
-				var waitfile = yield self.waitWho();
+				yield self.waitWho();
 				self.begingWait();
 				resolve(true);
 			})
@@ -60,7 +70,9 @@ class BlogFile extends FileWorker{
 
 	begingWait(){
 		const self = this;
+
 		self.callback = function (picfile) {
+			logger.debug(`pic ${picfile.oldAddr.name} is come`);
 			var index = self.waitArray.findIndex(x=>{
 				return x === picfile.oldAddr.path;
 			});
@@ -78,7 +90,9 @@ class BlogFile extends FileWorker{
 				}
 			}
 		}
+
 		self.on('comepic', self.callback);
+		self.emit('comeblog');
 	}
 
 	contentComplete(){
@@ -90,9 +104,16 @@ class BlogFile extends FileWorker{
 					reject(result[0]);
 					return ;
 				}
-				yield self.moveTo(movetodir);
+				logger.debug(self.content);
 				var blog = unam.unamFormString(self.content);
-				blog.save();
+				if(blog)
+					blog.save();
+				else{
+					logger.error(`blog parse err, file is ${self.tmpAddr.path}`);
+					resolve(true);
+					return ;
+				}
+				yield self.moveTo(movetodir);
 				logger.debug('blog complete over');
 				resolve(true);
 			})

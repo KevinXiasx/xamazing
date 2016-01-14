@@ -61,6 +61,12 @@ class Piclife{
 			return this.path;
 	}
 
+	pathmin(){
+		return this.path.map(x=>{
+			return x.replace(/\/(?=[^\/]+$)/, '/min/');
+		})
+	}
+
 	addpicpath(p){
 		if(isArray(p))
 			this.path.push(p);

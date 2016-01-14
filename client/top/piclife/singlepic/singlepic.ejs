@@ -28,18 +28,18 @@
     </div>
 </div>
 <div class="row">
-    <% if( singlepic[0].path instanceof Array ){ %>
-        <% for(var i = 0; i < singlepic[0].path.length; i++){%>
+    <% if( singlepic[0].pathmin() instanceof Array ){ %>
+        <% for(var i = 0; i < singlepic[0].pathmin().length; i++){%>
             <div class="col-md-3 portfolio-item text-center">
                 <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                    <img class="img-responsive" src="<%= singlepic[0].path[i] %>" alt="">
+                    <img class="img-responsive" src="<%= singlepic[0].pathmin()[i] %>" alt="">
                 </a>
             </div>
         <% } %>
     <% } else { %>
         <div class="col-md-3 portfolio-item ">
             <a href="#">
-                <img class="img-responsive" src="<%= singlepic[0].path %>" alt="">
+                <img class="img-responsive" src="<%= singlepic[0].pathmin() %>" alt="">
             </a>
         </div>
     <% } %>

@@ -7,7 +7,8 @@ const assert = require('assert');
 const exec = require('child_process').exec,
     child;
 
-const size = "320x280";
+const size = "500x>";
+const minsize = "500x300";
 const movetodir = path.join(__dirname, '../../../client/images/pushimg');
 const mindir = path.join(__dirname, '../../../client/images/pushimg/min');
 
@@ -51,10 +52,13 @@ class PicFile extends FileWorker{
 		return new Promise((resolve, reject)=>{
 			co(function* () {
 				assert(self.newAddr, 'newAddr is null');
-				var compressShell = `convert ${self.newAddr.path} -resize ${size} ${self.newAddr.path.replace(/\/(?=[^\/]+$)/, '/min/')}`;
+				logger.debug('he');
+				var compressShell = `convert ${self.newAddr.path} -resize '${size}' -gravity center -crop ${minsize}+0+0 +repage ${self.newAddr.path.replace(/\/(?=[^\/]+$)/, '/min/')}`;
+				logger.debug(compressShell);
 				var std = yield toPro(compressShell, exec); 
 				if(std[0] || std[1])
 					logger.error('compress:'+error+stderr);
+				logger.debug('he1');
 				resolve(true);
 			})
 		})

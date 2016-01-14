@@ -46,6 +46,7 @@ var recvfile = function(req){
                         resolve(picfile.deal());
                         break;
                     case '.amblog':
+                    case '.ampic':
                         var blogfile = new BlogFile(files);
                         resolve(blogfile.deal());
                         break;

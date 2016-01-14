@@ -1347,3 +1347,2022 @@ fda
   createtime: undefined,
   author: undefined }
 [2016-01-14 11:00:34.634] [DEBUG] blogfile - blog complete over
+[2016-01-14 11:49:24.990] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:49:25.048] [DEBUG] picfile - emited
+[2016-01-14 11:49:25.059] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:49:25.113] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:49:25.141] [DEBUG] picfile - emited
+[2016-01-14 11:49:25.145] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:49:25.195] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:49:25.244] [DEBUG] picfile - emited
+[2016-01-14 11:49:25.245] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:49:25.309] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 11:51:37.237] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:51:37.283] [DEBUG] picfile - emited
+[2016-01-14 11:51:37.291] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:51:37.345] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:51:37.366] [DEBUG] picfile - emited
+[2016-01-14 11:51:37.369] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:51:37.419] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:51:37.467] [DEBUG] picfile - emited
+[2016-01-14 11:51:37.468] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:51:37.533] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 11:55:50.570] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:55:50.629] [DEBUG] picfile - emited
+[2016-01-14 11:55:50.641] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:55:50.693] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:55:50.716] [DEBUG] picfile - emited
+[2016-01-14 11:55:50.719] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:55:50.767] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:55:50.815] [DEBUG] picfile - emited
+[2016-01-14 11:55:50.817] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:55:50.871] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:55:50.945] [DEBUG] picfile - emited
+[2016-01-14 11:55:50.946] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:55:51.001] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 11:55:51.002] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:44:04.084] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:04.137] [DEBUG] picfile - emited
+[2016-01-14 12:44:04.146] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:04.195] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:04.218] [DEBUG] picfile - emited
+[2016-01-14 12:44:04.221] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:04.271] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:04.319] [DEBUG] picfile - emited
+[2016-01-14 12:44:04.320] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:04.337] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:04.407] [DEBUG] picfile - emited
+[2016-01-14 12:44:04.409] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:04.461] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:44:04.462] [DEBUG] blogfile - null
+[2016-01-14 12:44:56.437] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:56.489] [DEBUG] picfile - emited
+[2016-01-14 12:44:56.499] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:56.551] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:56.580] [DEBUG] picfile - emited
+[2016-01-14 12:44:56.584] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:56.631] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:56.680] [DEBUG] picfile - emited
+[2016-01-14 12:44:56.682] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:56.702] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:44:56.779] [DEBUG] picfile - emited
+[2016-01-14 12:44:56.782] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:44:56.834] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:44:56.834] [DEBUG] blogfile - null
+[2016-01-14 12:45:12.485] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:12.539] [DEBUG] picfile - emited
+[2016-01-14 12:45:12.550] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:12.599] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:12.633] [DEBUG] picfile - emited
+[2016-01-14 12:45:12.637] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:12.687] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:12.737] [DEBUG] picfile - emited
+[2016-01-14 12:45:12.738] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:12.759] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:12.828] [DEBUG] picfile - emited
+[2016-01-14 12:45:12.829] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:12.886] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:45:12.886] [DEBUG] blogfile - null
+[2016-01-14 12:45:28.158] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:28.214] [DEBUG] picfile - emited
+[2016-01-14 12:45:28.225] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:28.271] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:28.296] [DEBUG] picfile - emited
+[2016-01-14 12:45:28.299] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:28.348] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:28.402] [DEBUG] picfile - emited
+[2016-01-14 12:45:28.403] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:28.418] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:28.483] [DEBUG] picfile - emited
+[2016-01-14 12:45:28.485] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:28.538] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:45:28.540] [DEBUG] blogfile - null
+[2016-01-14 12:45:36.562] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:36.616] [DEBUG] picfile - emited
+[2016-01-14 12:45:36.628] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:36.675] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:36.708] [DEBUG] picfile - emited
+[2016-01-14 12:45:36.712] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:36.759] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:36.814] [DEBUG] picfile - emited
+[2016-01-14 12:45:36.816] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:36.832] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:45:36.897] [DEBUG] picfile - emited
+[2016-01-14 12:45:36.898] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:45:36.954] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:45:36.954] [DEBUG] blogfile - null
+[2016-01-14 12:46:24.146] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:46:24.208] [DEBUG] picfile - emited
+[2016-01-14 12:46:24.217] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:46:24.263] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:46:24.295] [DEBUG] picfile - emited
+[2016-01-14 12:46:24.298] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:46:24.347] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:46:24.397] [DEBUG] picfile - emited
+[2016-01-14 12:46:24.399] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:46:24.417] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:46:24.493] [DEBUG] picfile - emited
+[2016-01-14 12:46:24.495] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:46:24.546] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:46:24.547] [DEBUG] blogfile - [ '"path"',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 12:47:14.851] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:14.910] [DEBUG] picfile - emited
+[2016-01-14 12:47:14.924] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:14.971] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:15.000] [DEBUG] picfile - emited
+[2016-01-14 12:47:15.003] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:15.052] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:15.100] [DEBUG] picfile - emited
+[2016-01-14 12:47:15.101] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:15.121] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:15.197] [DEBUG] picfile - emited
+[2016-01-14 12:47:15.199] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:15.250] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:47:15.250] [DEBUG] blogfile - [ '"path":[',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 12:47:15.253] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:47:26.113] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:26.164] [DEBUG] picfile - emited
+[2016-01-14 12:47:26.173] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:26.227] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:26.252] [DEBUG] picfile - emited
+[2016-01-14 12:47:26.256] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:26.307] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:26.355] [DEBUG] picfile - emited
+[2016-01-14 12:47:26.357] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:26.375] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:26.445] [DEBUG] picfile - emited
+[2016-01-14 12:47:26.447] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:26.502] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:47:26.502] [DEBUG] blogfile - null
+[2016-01-14 12:47:46.661] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:46.713] [DEBUG] picfile - emited
+[2016-01-14 12:47:46.722] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:46.775] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:46.807] [DEBUG] picfile - emited
+[2016-01-14 12:47:46.810] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:46.859] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:46.904] [DEBUG] picfile - emited
+[2016-01-14 12:47:46.905] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:46.924] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:47.003] [DEBUG] picfile - emited
+[2016-01-14 12:47:47.004] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:47.057] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:47:47.057] [DEBUG] blogfile - null
+[2016-01-14 12:47:52.829] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:52.879] [DEBUG] picfile - emited
+[2016-01-14 12:47:52.887] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:52.943] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:52.979] [DEBUG] picfile - emited
+[2016-01-14 12:47:52.983] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:53.031] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:53.079] [DEBUG] picfile - emited
+[2016-01-14 12:47:53.082] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:53.100] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:47:53.174] [DEBUG] picfile - emited
+[2016-01-14 12:47:53.176] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:47:53.229] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:47:53.230] [DEBUG] blogfile - null
+[2016-01-14 12:48:02.721] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:48:02.771] [DEBUG] picfile - emited
+[2016-01-14 12:48:02.788] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:48:02.831] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:48:02.860] [DEBUG] picfile - emited
+[2016-01-14 12:48:02.863] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:48:02.911] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:48:02.963] [DEBUG] picfile - emited
+[2016-01-14 12:48:02.965] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:48:02.981] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:48:03.055] [DEBUG] picfile - emited
+[2016-01-14 12:48:03.058] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:48:03.110] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:48:03.110] [DEBUG] blogfile - null
+[2016-01-14 12:53:35.337] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:35.385] [DEBUG] picfile - emited
+[2016-01-14 12:53:35.394] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:35.444] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:35.470] [DEBUG] picfile - emited
+[2016-01-14 12:53:35.474] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:35.523] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:35.566] [DEBUG] picfile - emited
+[2016-01-14 12:53:35.567] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:35.582] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:35.651] [DEBUG] picfile - emited
+[2016-01-14 12:53:35.653] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:35.705] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:53:35.705] [DEBUG] blogfile - null
+[2016-01-14 12:53:44.809] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:44.859] [DEBUG] picfile - emited
+[2016-01-14 12:53:44.867] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:44.922] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:44.944] [DEBUG] picfile - emited
+[2016-01-14 12:53:44.948] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:44.995] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:45.040] [DEBUG] picfile - emited
+[2016-01-14 12:53:45.041] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:45.057] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:53:45.143] [DEBUG] picfile - emited
+[2016-01-14 12:53:45.144] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:53:45.198] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:53:45.198] [DEBUG] blogfile - null
+[2016-01-14 12:54:00.677] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:00.727] [DEBUG] picfile - emited
+[2016-01-14 12:54:00.739] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:00.787] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:00.813] [DEBUG] picfile - emited
+[2016-01-14 12:54:00.816] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:00.863] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:00.906] [DEBUG] picfile - emited
+[2016-01-14 12:54:00.907] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:00.922] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:00.986] [DEBUG] picfile - emited
+[2016-01-14 12:54:00.988] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:01.041] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:54:01.041] [DEBUG] blogfile - [ '"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![',
+  '!',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 12:54:01.044] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:54:25.891] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:25.950] [DEBUG] picfile - emited
+[2016-01-14 12:54:25.962] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:26.007] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:26.033] [DEBUG] picfile - emited
+[2016-01-14 12:54:26.037] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:26.083] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:26.128] [DEBUG] picfile - emited
+[2016-01-14 12:54:26.129] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:26.148] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:26.214] [DEBUG] picfile - emited
+[2016-01-14 12:54:26.215] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:26.265] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:54:26.265] [DEBUG] blogfile - [ '"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello]',
+  '!',
+  'o',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 12:54:26.269] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:54:54.382] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:54.431] [DEBUG] picfile - emited
+[2016-01-14 12:54:54.440] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:54.487] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:54.508] [DEBUG] picfile - emited
+[2016-01-14 12:54:54.511] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:54.563] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:54.610] [DEBUG] picfile - emited
+[2016-01-14 12:54:54.611] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:54.627] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:54:54.694] [DEBUG] picfile - emited
+[2016-01-14 12:54:54.695] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:54:54.749] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:54:54.750] [DEBUG] blogfile - [ '"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello]',
+  '!',
+  'o',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 12:54:54.752] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:55:46.753] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:55:46.801] [DEBUG] picfile - emited
+[2016-01-14 12:55:46.809] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:55:46.855] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:55:46.880] [DEBUG] picfile - emited
+[2016-01-14 12:55:46.883] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:55:46.935] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:55:46.978] [DEBUG] picfile - emited
+[2016-01-14 12:55:46.980] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:55:46.999] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:55:47.060] [DEBUG] picfile - emited
+[2016-01-14 12:55:47.062] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:55:47.113] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:55:47.113] [DEBUG] blogfile - [ '"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"]',
+  ':',
+  '"',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 12:55:47.116] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:57:25.477] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:57:25.529] [DEBUG] picfile - emited
+[2016-01-14 12:57:25.538] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:57:25.587] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:57:25.617] [DEBUG] picfile - emited
+[2016-01-14 12:57:25.621] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:57:25.671] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:57:25.715] [DEBUG] picfile - emited
+[2016-01-14 12:57:25.717] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:57:25.733] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:57:25.803] [DEBUG] picfile - emited
+[2016-01-14 12:57:25.805] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:57:25.857] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:57:25.858] [DEBUG] blogfile - [ '"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"]',
+  ':',
+  '"/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"',
+  '"',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 12:57:25.861] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:58:02.874] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:58:02.931] [DEBUG] picfile - emited
+[2016-01-14 12:58:02.941] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:58:02.991] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:58:03.020] [DEBUG] picfile - emited
+[2016-01-14 12:58:03.023] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:58:03.071] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:58:03.119] [DEBUG] picfile - emited
+[2016-01-14 12:58:03.121] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:58:03.140] [DEBUG] picfile - picfile begin deal
+[2016-01-14 12:58:03.208] [DEBUG] picfile - emited
+[2016-01-14 12:58:03.209] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 12:58:03.262] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 12:58:03.262] [DEBUG] blogfile - "/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"
+[2016-01-14 12:58:03.263] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:58:03.263] [DEBUG] blogfile - undefined
+[2016-01-14 13:00:42.129] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:00:42.183] [DEBUG] picfile - emited
+[2016-01-14 13:00:42.193] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:00:42.240] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:00:42.271] [DEBUG] picfile - emited
+[2016-01-14 13:00:42.274] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:00:42.323] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:00:42.369] [DEBUG] picfile - emited
+[2016-01-14 13:00:42.370] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:00:42.387] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:00:42.456] [DEBUG] picfile - emited
+[2016-01-14 13:00:42.458] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:00:42.510] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:00:42.510] [DEBUG] blogfile - [ '"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"]',
+  ':',
+  '"/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"',
+  '"',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 13:00:42.514] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 13:01:17.906] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:17.957] [DEBUG] picfile - emited
+[2016-01-14 13:01:17.967] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:18.015] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:18.043] [DEBUG] picfile - emited
+[2016-01-14 13:01:18.047] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:18.095] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:18.142] [DEBUG] picfile - emited
+[2016-01-14 13:01:18.143] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:18.162] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:18.230] [DEBUG] picfile - emited
+[2016-01-14 13:01:18.232] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:18.285] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:01:18.285] [DEBUG] blogfile - [ '"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"]',
+  ':',
+  '["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"]',
+  '"',
+  index: 27,
+  input: '{\n\t"title":"piclifetest",\n\t"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/test.jpg",\n\t\t\t"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],\n\t"type":"piflife"\n}\n----------------------------\ndasfdad\nsaf\ndasfd\na\n\n![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)\na\ndf\na\nfda\n' ]
+[2016-01-14 13:01:18.288] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 13:01:36.181] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:36.229] [DEBUG] picfile - emited
+[2016-01-14 13:01:36.238] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:36.291] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:36.320] [DEBUG] picfile - emited
+[2016-01-14 13:01:36.326] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:36.371] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:36.414] [DEBUG] picfile - emited
+[2016-01-14 13:01:36.416] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:36.435] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:01:36.514] [DEBUG] picfile - emited
+[2016-01-14 13:01:36.516] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:01:36.569] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:01:36.569] [DEBUG] blogfile - ["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"]
+[2016-01-14 13:02:51.438] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:02:51.497] [DEBUG] picfile - emited
+[2016-01-14 13:02:51.508] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:02:51.555] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:02:51.580] [DEBUG] picfile - emited
+[2016-01-14 13:02:51.583] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:02:51.631] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:02:51.676] [DEBUG] picfile - emited
+[2016-01-14 13:02:51.677] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:02:51.692] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:02:51.764] [DEBUG] picfile - emited
+[2016-01-14 13:02:51.765] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:02:51.818] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:05:02.205] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:05:02.251] [DEBUG] picfile - emited
+[2016-01-14 13:05:02.261] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:05:02.307] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:05:02.336] [DEBUG] picfile - emited
+[2016-01-14 13:05:02.339] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:05:02.387] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:05:02.432] [DEBUG] picfile - emited
+[2016-01-14 13:05:02.433] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:05:02.447] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:05:02.519] [DEBUG] picfile - emited
+[2016-01-14 13:05:02.520] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:05:02.574] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:06:00.649] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:00.701] [DEBUG] picfile - emited
+[2016-01-14 13:06:00.710] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:00.759] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:00.788] [DEBUG] picfile - emited
+[2016-01-14 13:06:00.793] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:00.839] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:00.881] [DEBUG] picfile - emited
+[2016-01-14 13:06:00.883] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:00.897] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:00.962] [DEBUG] picfile - emited
+[2016-01-14 13:06:00.963] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:01.017] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:06:12.065] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:12.128] [DEBUG] picfile - emited
+[2016-01-14 13:06:12.137] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:12.183] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:12.208] [DEBUG] picfile - emited
+[2016-01-14 13:06:12.212] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:12.259] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:12.305] [DEBUG] picfile - emited
+[2016-01-14 13:06:12.306] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:12.327] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:12.393] [DEBUG] picfile - emited
+[2016-01-14 13:06:12.395] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:12.445] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:06:12.445] [DEBUG] blogfile - here
+[2016-01-14 13:06:33.841] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:33.893] [DEBUG] picfile - emited
+[2016-01-14 13:06:33.901] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:33.951] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:33.980] [DEBUG] picfile - emited
+[2016-01-14 13:06:33.984] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:34.031] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:34.077] [DEBUG] picfile - emited
+[2016-01-14 13:06:34.078] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:34.093] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:06:34.166] [DEBUG] picfile - emited
+[2016-01-14 13:06:34.169] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:06:34.222] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:06:34.222] [DEBUG] blogfile - here
+[2016-01-14 13:06:34.223] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:06:34.226] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:06:34.227] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:07:17.238] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:07:17.295] [DEBUG] picfile - emited
+[2016-01-14 13:07:17.306] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:07:17.352] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:07:17.387] [DEBUG] picfile - emited
+[2016-01-14 13:07:17.389] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:07:17.439] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:07:17.485] [DEBUG] picfile - emited
+[2016-01-14 13:07:17.486] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:07:17.504] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:07:17.576] [DEBUG] picfile - emited
+[2016-01-14 13:07:17.577] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:07:17.631] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:07:17.632] [DEBUG] blogfile - here
+[2016-01-14 13:07:17.632] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:07:17.635] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:07:17.636] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:10:06.197] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:10:06.250] [DEBUG] picfile - emited
+[2016-01-14 13:10:06.260] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:10:06.307] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:10:06.337] [DEBUG] picfile - emited
+[2016-01-14 13:10:06.340] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:10:06.387] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:10:06.435] [DEBUG] picfile - emited
+[2016-01-14 13:10:06.436] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:10:06.453] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:10:06.531] [DEBUG] picfile - emited
+[2016-01-14 13:10:06.533] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:10:06.585] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:10:06.586] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:10:06.590] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:21.481] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:21.542] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.553] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:21.599] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:21.627] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.630] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:21.679] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:21.725] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.727] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:21.748] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:21.813] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.815] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:21.866] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:12:21.867] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:12:21.870] [DEBUG] blogfile - pic td is come
+[2016-01-14 13:12:21.871] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.871] [DEBUG] blogfile - pic test is come
+[2016-01-14 13:12:21.871] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.871] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 13:12:21.871] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.872] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 13:12:21.872] [DEBUG] blogfile - blog callback over
+[2016-01-14 13:12:21.874] [DEBUG] picfile - emited
+[2016-01-14 13:12:21.876] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:21.880] [ERROR] blogfile - blog parse err, file is /home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_9ab7aa992b325017a643c89a1cdbcf5e.ampic
+[2016-01-14 13:12:49.317] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:49.365] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.373] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:49.419] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:49.448] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.452] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:49.499] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:49.542] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.543] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:49.558] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:12:49.629] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.631] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:49.682] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:12:49.682] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:12:49.685] [DEBUG] blogfile - pic td is come
+[2016-01-14 13:12:49.686] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.686] [DEBUG] blogfile - pic test is come
+[2016-01-14 13:12:49.686] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.686] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 13:12:49.686] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.686] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 13:12:49.687] [DEBUG] blogfile - blog callback over
+[2016-01-14 13:12:49.687] [DEBUG] picfile - emited
+[2016-01-14 13:12:49.688] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:12:49.690] [ERROR] blogfile - blog parse err, file is /home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_33528ab577795befb26e3b490cc8a687.ampic
+[2016-01-14 13:13:42.881] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:13:42.927] [DEBUG] picfile - emited
+[2016-01-14 13:13:42.936] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:13:42.983] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:13:43.008] [DEBUG] picfile - emited
+[2016-01-14 13:13:43.015] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:13:43.063] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:13:43.106] [DEBUG] picfile - emited
+[2016-01-14 13:13:43.107] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:13:43.125] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:13:43.199] [DEBUG] picfile - emited
+[2016-01-14 13:13:43.200] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:13:43.253] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:13:43.254] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:13:43.256] [DEBUG] blogfile - pic td is come
+[2016-01-14 13:13:43.257] [DEBUG] picfile - emited
+[2016-01-14 13:13:43.257] [DEBUG] blogfile - pic test is come
+[2016-01-14 13:13:43.257] [DEBUG] picfile - emited
+[2016-01-14 13:13:43.258] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 13:13:43.258] [DEBUG] picfile - emited
+[2016-01-14 13:13:43.258] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 13:13:43.259] [DEBUG] blogfile - blog callback over
+[2016-01-14 13:13:43.259] [DEBUG] picfile - emited
+[2016-01-14 13:13:43.261] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:13:43.265] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/T-td.jpg",
+			"/images/pushimg/T-test.jpg",
+			"/images/pushimg/T-sunrise1.jpg"],
+	"type":"piflife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/T-biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:13:43.267] [ERROR] blogfile - blog parse err, file is /home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_c482cb4bb5c1bffb775c373e5b67d50e.ampic
+[2016-01-14 13:14:39.401] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:14:39.449] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.457] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:14:39.503] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:14:39.528] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.533] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:14:39.583] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:14:39.628] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.630] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:14:39.646] [DEBUG] picfile - picfile begin deal
+[2016-01-14 13:14:39.715] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.718] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:14:39.769] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:14:39.770] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 13:14:39.772] [DEBUG] blogfile - pic td is come
+[2016-01-14 13:14:39.773] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.773] [DEBUG] blogfile - pic test is come
+[2016-01-14 13:14:39.774] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.774] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 13:14:39.774] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.774] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 13:14:39.775] [DEBUG] blogfile - blog callback over
+[2016-01-14 13:14:39.775] [DEBUG] picfile - emited
+[2016-01-14 13:14:39.776] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 13:14:39.778] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/T-T-td.jpg",
+			"/images/pushimg/T-T-test.jpg",
+			"/images/pushimg/T-T-sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/T-T-biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 13:14:39.791] [DEBUG] blogfile - blog complete over
+[2016-01-14 13:15:28.480] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 10962 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.529] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-td.jpg HTTP/1.1" 200 132991 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.550] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.552] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.554] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.675] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.694] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 200 12309 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.698] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 200 1624 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.700] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 200 46 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.741] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.743] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.798] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.815] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 304 - "http://localhost:3003/public/lib/font-awesome/css/font-awesome.min.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.823] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.880] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.881] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.883] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.884] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.927] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.951] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:28.953] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.019] [INFO] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 200 7940 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.056] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.057] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.064] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.066] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.066] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.071] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.072] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.073] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.077] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.079] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.161] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 - "http://localhost:3003/public/lib/bootstrap/css/bootstrap.min.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.206] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.263] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.267] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.289] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:39.302] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.653] [INFO] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000004 HTTP/1.1" 200 5431 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.685] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.691] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.695] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.696] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.698] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.705] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-td.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.709] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-test.jpg HTTP/1.1" 200 50189 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.710] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-sunrise1.jpg HTTP/1.1" 200 73499 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.724] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic.css HTTP/1.1" 200 557 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.778] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.786] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.787] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.790] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 13:15:52.840] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.745] [WARN] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.781] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.784] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.790] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.792] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.795] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.801] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.809] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.817] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-td.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.819] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.820] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.839] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.894] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.913] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.914] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.915] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.915] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.946] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.986] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:26.989] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.340] [WARN] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.372] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.373] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.376] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.378] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.379] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.380] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.387] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.387] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.389] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.390] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.474] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.496] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.498] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.512] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:00:34.514] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:17:20.837] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:18:51.457] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:19:16.885] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:19:16.899] [DEBUG] picfile - he
+[2016-01-14 14:20:10.637] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:20:10.643] [DEBUG] picfile - he
+[2016-01-14 14:20:10.644] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-td.jpg -resize 500x> -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-T-td.jpg
+[2016-01-14 14:21:57.743] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:21:57.752] [DEBUG] picfile - he
+[2016-01-14 14:21:57.753] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-T-td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-T-T-td.jpg
+[2016-01-14 14:21:57.814] [DEBUG] picfile - he1
+[2016-01-14 14:21:57.815] [DEBUG] picfile - emited
+[2016-01-14 14:21:57.824] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:21:57.871] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:21:57.872] [DEBUG] picfile - he
+[2016-01-14 14:21:57.872] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/test.jpg
+[2016-01-14 14:21:57.892] [DEBUG] picfile - he1
+[2016-01-14 14:21:57.892] [DEBUG] picfile - emited
+[2016-01-14 14:21:57.897] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:21:57.943] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:21:57.945] [DEBUG] picfile - he
+[2016-01-14 14:21:57.945] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/sunrise1.jpg
+[2016-01-14 14:21:57.999] [DEBUG] picfile - he1
+[2016-01-14 14:21:57.999] [DEBUG] picfile - emited
+[2016-01-14 14:21:58.001] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:21:58.018] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:21:58.020] [DEBUG] picfile - he
+[2016-01-14 14:21:58.021] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/biyezhao1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/biyezhao1.jpg
+[2016-01-14 14:21:58.094] [DEBUG] picfile - he1
+[2016-01-14 14:21:58.096] [DEBUG] picfile - emited
+[2016-01-14 14:21:58.098] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:21:58.149] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:21:58.150] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 14:21:58.152] [DEBUG] blogfile - pic td is come
+[2016-01-14 14:21:58.153] [DEBUG] picfile - emited
+[2016-01-14 14:21:58.153] [DEBUG] blogfile - pic test is come
+[2016-01-14 14:21:58.153] [DEBUG] picfile - emited
+[2016-01-14 14:21:58.154] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 14:21:58.154] [DEBUG] picfile - emited
+[2016-01-14 14:21:58.157] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 14:21:58.160] [DEBUG] blogfile - blog callback over
+[2016-01-14 14:21:58.161] [DEBUG] picfile - emited
+[2016-01-14 14:21:58.163] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:21:58.164] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/T-T-T-T-td.jpg",
+			"/images/pushimg/test.jpg",
+			"/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:21:58.204] [DEBUG] blogfile - blog complete over
+[2016-01-14 14:22:42.050] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:22:42.058] [DEBUG] picfile - he
+[2016-01-14 14:22:42.058] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/td.jpg
+[2016-01-14 14:22:42.116] [DEBUG] picfile - he1
+[2016-01-14 14:22:42.116] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.125] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:22:42.171] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:22:42.172] [DEBUG] picfile - he
+[2016-01-14 14:22:42.172] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/test.jpg
+[2016-01-14 14:22:42.192] [DEBUG] picfile - he1
+[2016-01-14 14:22:42.192] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.198] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:22:42.243] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:22:42.244] [DEBUG] picfile - he
+[2016-01-14 14:22:42.245] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/sunrise1.jpg
+[2016-01-14 14:22:42.295] [DEBUG] picfile - he1
+[2016-01-14 14:22:42.296] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.299] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:22:42.318] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:22:42.319] [DEBUG] picfile - he
+[2016-01-14 14:22:42.320] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/biyezhao1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/biyezhao1.jpg
+[2016-01-14 14:22:42.391] [DEBUG] picfile - he1
+[2016-01-14 14:22:42.392] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.394] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:22:42.445] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:22:42.446] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 14:22:42.449] [DEBUG] blogfile - pic td is come
+[2016-01-14 14:22:42.450] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.450] [DEBUG] blogfile - pic test is come
+[2016-01-14 14:22:42.450] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.450] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 14:22:42.451] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.451] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 14:22:42.453] [DEBUG] blogfile - blog callback over
+[2016-01-14 14:22:42.456] [DEBUG] picfile - emited
+[2016-01-14 14:22:42.459] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:22:42.461] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/td.jpg",
+			"/images/pushimg/test.jpg",
+			"/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:22:42.510] [DEBUG] blogfile - blog complete over
+[2016-01-14 14:23:11.668] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:23:11.670] [DEBUG] picfile - he
+[2016-01-14 14:23:11.670] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-td.jpg
+[2016-01-14 14:23:11.726] [DEBUG] picfile - he1
+[2016-01-14 14:23:11.727] [DEBUG] picfile - emited
+[2016-01-14 14:23:11.728] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:23:11.779] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:23:11.780] [DEBUG] picfile - he
+[2016-01-14 14:23:11.780] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-test.jpg
+[2016-01-14 14:23:11.799] [DEBUG] picfile - he1
+[2016-01-14 14:23:11.799] [DEBUG] picfile - emited
+[2016-01-14 14:23:11.801] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:23:11.851] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:23:11.852] [DEBUG] picfile - he
+[2016-01-14 14:23:11.852] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-sunrise1.jpg
+[2016-01-14 14:23:11.908] [DEBUG] picfile - he1
+[2016-01-14 14:23:11.908] [DEBUG] picfile - emited
+[2016-01-14 14:23:11.909] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:23:11.925] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:23:11.926] [DEBUG] picfile - he
+[2016-01-14 14:23:11.926] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-biyezhao1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-biyezhao1.jpg
+[2016-01-14 14:23:12.016] [DEBUG] picfile - he1
+[2016-01-14 14:23:12.017] [DEBUG] picfile - emited
+[2016-01-14 14:23:12.018] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:23:12.068] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:23:12.068] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 14:23:12.069] [DEBUG] blogfile - pic td is come
+[2016-01-14 14:23:12.069] [DEBUG] picfile - emited
+[2016-01-14 14:23:12.071] [DEBUG] blogfile - pic test is come
+[2016-01-14 14:23:12.071] [DEBUG] picfile - emited
+[2016-01-14 14:23:12.071] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 14:23:12.071] [DEBUG] picfile - emited
+[2016-01-14 14:23:12.071] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 14:23:12.072] [DEBUG] blogfile - blog callback over
+[2016-01-14 14:23:12.072] [DEBUG] picfile - emited
+[2016-01-14 14:23:12.073] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:23:12.075] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/T-td.jpg",
+			"/images/pushimg/T-test.jpg",
+			"/images/pushimg/T-sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/T-biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:23:12.086] [DEBUG] blogfile - blog complete over
+[2016-01-14 14:24:05.879] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 10968 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:05.915] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:05.917] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:05.921] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:05.925] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.069] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 200 1624 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.072] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 200 12309 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.073] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 200 46 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.083] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.085] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.087] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.092] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.169] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.181] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.183] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.185] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.187] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.204] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.227] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.229] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.579] [INFO] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 200 8739 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.613] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.614] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.625] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.627] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.628] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.632] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.640] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.643] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.649] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.651] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.652] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.723] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.740] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.740] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.756] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.760] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.662] [WARN] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.686] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.691] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.699] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.701] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.704] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.706] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.706] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.711] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.716] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.718] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.749] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.796] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.809] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.812] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.813] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.816] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.828] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.856] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.860] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:21.500] [ERROR] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000006 HTTP/1.1" 500 996 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:22.219] [ERROR] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000006 HTTP/1.1" 500 996 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.222] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 10986 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.249] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.252] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.256] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.257] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.258] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.259] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.260] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.264] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.265] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.267] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.297] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.386] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.394] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.398] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.399] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.402] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.421] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.445] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:25.447] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:14.881] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 10998 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:14.914] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:14.918] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:14.919] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:14.923] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.056] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 200 1624 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.058] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 200 12309 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.059] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 200 46 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.070] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.074] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.077] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/biyezhao1.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.086] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.143] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.149] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.151] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.157] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.159] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.173] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.204] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.205] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:33.811] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:30:33.816] [DEBUG] picfile - he
+[2016-01-14 14:30:33.817] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/td.jpg
+[2016-01-14 14:30:33.901] [DEBUG] picfile - he1
+[2016-01-14 14:30:33.902] [DEBUG] picfile - emited
+[2016-01-14 14:30:33.905] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:30:33.959] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:30:33.962] [DEBUG] picfile - he
+[2016-01-14 14:30:33.962] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/test.jpg
+[2016-01-14 14:30:33.979] [DEBUG] picfile - he1
+[2016-01-14 14:30:33.980] [DEBUG] picfile - emited
+[2016-01-14 14:30:33.981] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:30:34.031] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:30:34.032] [DEBUG] picfile - he
+[2016-01-14 14:30:34.033] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/sunrise1.jpg
+[2016-01-14 14:30:34.084] [DEBUG] picfile - he1
+[2016-01-14 14:30:34.084] [DEBUG] picfile - emited
+[2016-01-14 14:30:34.085] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:30:34.105] [DEBUG] picfile - picfile begin deal
+[2016-01-14 14:30:34.107] [DEBUG] picfile - he
+[2016-01-14 14:30:34.108] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/biyezhao1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/biyezhao1.jpg
+[2016-01-14 14:30:34.180] [DEBUG] picfile - he1
+[2016-01-14 14:30:34.181] [DEBUG] picfile - emited
+[2016-01-14 14:30:34.183] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:30:34.236] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:30:34.237] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg',
+  '/home/kevin/project_c/xamazing/client/images/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 14:30:34.241] [DEBUG] blogfile - pic td is come
+[2016-01-14 14:30:34.242] [DEBUG] picfile - emited
+[2016-01-14 14:30:34.242] [DEBUG] blogfile - pic test is come
+[2016-01-14 14:30:34.243] [DEBUG] picfile - emited
+[2016-01-14 14:30:34.243] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 14:30:34.243] [DEBUG] picfile - emited
+[2016-01-14 14:30:34.244] [DEBUG] blogfile - pic biyezhao1 is come
+[2016-01-14 14:30:34.245] [DEBUG] blogfile - blog callback over
+[2016-01-14 14:30:34.246] [DEBUG] picfile - emited
+[2016-01-14 14:30:34.248] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 14:30:34.250] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/td.jpg",
+			"/images/pushimg/test.jpg",
+			"/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/biyezhao1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 14:30:34.271] [DEBUG] blogfile - blog complete over
+[2016-01-14 14:30:36.029] [INFO] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000002 HTTP/1.1" 200 5430 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.121] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.126] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.135] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.136] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.137] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.140] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.169] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic.css HTTP/1.1" 200 557 "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.210] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise1.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.211] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise2.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.335] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.351] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.352] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.355] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:36.399] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.880] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 10966 "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.961] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.966] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.972] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.974] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.977] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.978] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.979] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.988] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.992] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.998] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 200 24291 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.064] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.145] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.170] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.171] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.176] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.179] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.207] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.259] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:38.260] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.308] [WARN] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.331] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.333] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.340] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.347] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.351] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.352] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.353] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.362] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.367] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.368] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.379] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.434] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.444] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.449] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.453] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.456] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.491] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.514] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.515] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.310] [WARN] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000002" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.332] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.335] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/animate.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.336] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.339] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.341] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.342] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.402] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/creative.css HTTP/1.1" 200 12296 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.407] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.409] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.420] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.423] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/img/header.jpg HTTP/1.1" 304 - "http://localhost:3003/top/creative.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.480] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/top-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.502] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.504] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.508] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/creative.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.509] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.523] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.550] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.fittext.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.553] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/wow.seajs.js HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.169] [INFO] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000004 HTTP/1.1" 200 5415 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.206] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.209] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.216] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.216] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.217] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.219] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.229] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/test.jpg HTTP/1.1" 200 24291 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.235] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/sunrise1.jpg HTTP/1.1" 200 73499 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.238] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 200 132991 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.305] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.334] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.339] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.342] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:45.359] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.907] [WARN] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000004 HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.947] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.952] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.959] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.961] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.962] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.963] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.968] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.969] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/test.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:12.970] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/sunrise1.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:13.038] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:13.052] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:13.055] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:13.059] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:13.083] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.084] [INFO] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 200 7932 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.144] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.147] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.149] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.149] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.152] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.153] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.162] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.163] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.164] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.165] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.225] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.234] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.238] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.244] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:30.247] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.300] [WARN] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.344] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.346] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.357] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.359] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.361] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.363] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.370] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.375] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.378] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.381] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.427] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.434] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.436] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.447] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:31.449] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.664] [WARN] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.684] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.695] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.696] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.697] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.698] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.700] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.705] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.705] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.706] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.707] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.758] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.765] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.770] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.789] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:35.797] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.445] [WARN] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.491] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.492] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.494] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.500] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.505] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.507] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.511] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.512] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/showtime.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.513] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/sunrise.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.514] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/biyezhao1.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.532] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.562] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.563] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.572] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:32:36.574] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.529] [INFO] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 200 7948 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.553] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.557] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.562] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.564] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.565] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.566] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.571] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.574] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.576] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.577] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/biyezhao1.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.628] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.636] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.637] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.667] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.672] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.884] [WARN] http - ::ffff:127.0.0.1 - - "GET /piclife HTTP/1.1" 304 - "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.903] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.908] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.910] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.913] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.915] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.917] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.921] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.923] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.925] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/biyezhao1.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.926] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.976] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/piclife-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.982] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.988] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:49.007] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:49.019] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.941] [INFO] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000004 HTTP/1.1" 200 5427 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.966] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.967] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.969] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.972] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.979] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.984] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.988] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/test.jpg HTTP/1.1" 200 24246 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.991] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:50.993] [INFO] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/sunrise1.jpg HTTP/1.1" 200 18942 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:51.034] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:51.044] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:51.048] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:51.053] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:51.056] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.795] [WARN] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000004 HTTP/1.1" 304 - "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.830] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.835] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.836] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.892] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic.css HTTP/1.1" 200 557 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.895] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 200 1624 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.897] [INFO] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 200 46 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.904] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.906] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/test.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.909] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/sunrise1.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.941] [INFO] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic-main.js HTTP/1.1" 200 340 "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.989] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.990] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:51.991] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:52.003] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:52.625] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/test.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:54.110] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:35:55.675] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/sunrise1.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.608] [WARN] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000004 HTTP/1.1" 304 - "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.668] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.672] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.677] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/td.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.685] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/test.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.687] [WARN] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/min/sunrise1.jpg HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.691] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/seajs-3.0.0/dist/sea.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.718] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.720] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.721] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/footer/footer.css HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.796] [WARN] http - ::ffff:127.0.0.1 - - "GET /top/piclife/singlepic/singlepic-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.809] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/bootstrap/js/bootstrap-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.813] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.815] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:46:31.830] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"

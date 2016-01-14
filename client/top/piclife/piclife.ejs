@@ -39,7 +39,7 @@
 
             <% if(piclife) {%>
                 <% for(var j in piclife) {%>
-                    <% var ele=( ( piclife[j].path instanceof Array)? piclife[j].path[0] : piclife[j].path); %>
+                    <% var ele=( ( piclife[j].pathmin() instanceof Array)? piclife[j].pathmin()[0] : piclife[j].pathmin()); %>
                     <div class="row">
                         <div class="col-md-4 col-md-offset-2">
                             <a href="/singlepic?picid=<%= piclife[j].id %>">

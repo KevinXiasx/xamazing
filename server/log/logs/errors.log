@@ -4,3 +4,45 @@
 [2016-01-13 18:06:24.518] [ERROR] picfile - compress:null
 [2016-01-13 18:06:43.438] [ERROR] picfile - compress:null
 [2016-01-13 18:07:06.953] [ERROR] picfile - compress:null
+[2016-01-14 11:49:25.309] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 11:51:37.533] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 11:55:51.002] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:47:15.253] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:54:01.044] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:54:26.269] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:54:54.752] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:55:47.116] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:57:25.861] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 12:58:03.263] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 13:00:42.514] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 13:01:18.288] [ERROR] blogfile - parse pic path fail , file :picfile-test
+[2016-01-14 13:12:21.880] [ERROR] blogfile - blog parse err, file is /home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_9ab7aa992b325017a643c89a1cdbcf5e.ampic
+[2016-01-14 13:12:49.690] [ERROR] blogfile - blog parse err, file is /home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_33528ab577795befb26e3b490cc8a687.ampic
+[2016-01-14 13:13:43.267] [ERROR] blogfile - blog parse err, file is /home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_c482cb4bb5c1bffb775c373e5b67d50e.ampic
+[2016-01-14 14:24:06.083] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.085] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:06.087] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.640] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.643] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.649] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:24:38.651] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.711] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.716] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:25:12.718] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/pushimg/T-T-T-T-td.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:21.500] [ERROR] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000006 HTTP/1.1" 500 996 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:26:22.219] [ERROR] http - ::ffff:127.0.0.1 - - "GET /singlepic?picid=20000006 HTTP/1.1" 500 996 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.070] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.074] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:15.077] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/biyezhao1.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.988] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:37.992] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.362] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:30:48.367] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.407] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:31:35.409] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.574] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.576] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:33:25.577] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/biyezhao1.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.921] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/showtime.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.923] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/sunrise.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 14:34:48.925] [ERROR] http - ::ffff:127.0.0.1 - - "GET /images/min/biyezhao1.jpg HTTP/1.1" 404 120 "http://localhost:3003/piclife" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"

@@ -1,5 +1,6 @@
 var fs = require('fs');
 var Blog = require('../../content/blog');
+var Piclife = require('../../content/pic');
 var unamFormFile = function (file) {
 	return new Promise(function (resolve, reject) {
 		fs.readFile(file, (err, data)=>{
@@ -15,7 +16,17 @@ var unamFormFile = function (file) {
 				header = JSON.parse(header);
 				header.content = content;
 
-				resolve(new Blog(header));
+				switch(header.type){
+					case 'blog':
+						resolve(new Blog(header));
+						break;
+					case 'piclife':
+						resolve(new Piclife(header));
+						break;
+					default:
+						return false;
+						break;
+				}
 			}
 		});
 	});
@@ -31,7 +42,17 @@ var unamFormString = function (string) {
 	header = JSON.parse(header);
 	header.content = content;
 
-	return new Blog(header);
+	switch(header.type){
+		case 'blog':
+			return new Blog(header);
+			break;
+		case 'piclife':
+			return new Piclife(header);
+			break;
+		default:
+			return false;
+			break;
+	}
 }
 
 
