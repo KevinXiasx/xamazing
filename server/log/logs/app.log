@@ -752,3 +752,598 @@ fda
 [2016-01-13 20:39:09.775] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
 [2016-01-13 20:39:09.822] [DEBUG] picfile - picfile begin deal
 [2016-01-13 20:39:09.890] [DEBUG] blogfile - 3
+[2016-01-14 10:02:00.249] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:02:00.296] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:02:00.393] [DEBUG] blogfile - 3
+[2016-01-14 10:02:50.064] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:02:50.112] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:02:50.184] [DEBUG] blogfile - 3
+[2016-01-14 10:20:09.878] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:20:09.928] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:20:09.982] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:20:44.999] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:20:45.044] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:20:45.096] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:23:08.096] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:23:08.144] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:23:08.217] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:25:03.376] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:25:03.425] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:25:03.503] [DEBUG] picfile - emited
+[2016-01-14 10:25:03.506] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:35:05.276] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:35:05.323] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:35:05.404] [DEBUG] blogfile - 3
+[2016-01-14 10:35:05.405] [DEBUG] blogfile - undefined
+[2016-01-14 10:35:05.405] [DEBUG] picfile - emited
+[2016-01-14 10:35:05.410] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:37:26.740] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:37:26.788] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:37:26.836] [DEBUG] blogfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_acb64def6d005f10f1994afb4964475a.jpg',
+     ext: '.jpg',
+     name: 'upload_acb64def6d005f10f1994afb4964475a',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_acb64def6d005f10f1994afb4964475a.jpg' },
+  newAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images/pushimg',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/pushimg/td.jpg' },
+  url: '/images/pushimg/td.jpg',
+  callback: [Function] }
+[2016-01-14 10:37:26.855] [DEBUG] blogfile - undefined
+[2016-01-14 10:37:26.855] [DEBUG] picfile - emited
+[2016-01-14 10:37:26.858] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:38:00.751] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:38:00.800] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:38:00.853] [DEBUG] blogfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_6185b71a4a423f756500bd2be50345c5.jpg',
+     ext: '.jpg',
+     name: 'upload_6185b71a4a423f756500bd2be50345c5',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_6185b71a4a423f756500bd2be50345c5.jpg' },
+  newAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images/pushimg',
+     base: 'T-td.jpg',
+     ext: '.jpg',
+     name: 'T-td',
+     path: '/home/kevin/project_c/xamazing/client/images/pushimg/T-td.jpg' },
+  url: '/images/pushimg/T-td.jpg',
+  callback: [Function] }
+[2016-01-14 10:38:00.865] [DEBUG] blogfile - [ '![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)' ]
+[2016-01-14 10:38:00.866] [DEBUG] blogfile - undefined
+[2016-01-14 10:38:00.866] [DEBUG] picfile - emited
+[2016-01-14 10:38:00.869] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:41:01.009] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:41:01.056] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:41:01.110] [DEBUG] blogfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_060e3374e1eff221736708fe796e436e.jpg',
+     ext: '.jpg',
+     name: 'upload_060e3374e1eff221736708fe796e436e',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_060e3374e1eff221736708fe796e436e.jpg' },
+  newAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images/pushimg',
+     base: 'T-T-td.jpg',
+     ext: '.jpg',
+     name: 'T-T-td',
+     path: '/home/kevin/project_c/xamazing/client/images/pushimg/T-T-td.jpg' },
+  url: '/images/pushimg/T-T-td.jpg',
+  callback: [Function] }
+[2016-01-14 10:41:01.123] [DEBUG] blogfile - undefined
+[2016-01-14 10:41:22.239] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:41:22.284] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:41:22.334] [DEBUG] blogfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_d589e0f39a7179ff7cbd7ffd75103caa.jpg',
+     ext: '.jpg',
+     name: 'upload_d589e0f39a7179ff7cbd7ffd75103caa',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_d589e0f39a7179ff7cbd7ffd75103caa.jpg' },
+  newAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images/pushimg',
+     base: 'T-T-T-td.jpg',
+     ext: '.jpg',
+     name: 'T-T-T-td',
+     path: '/home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-td.jpg' },
+  url: '/images/pushimg/T-T-T-td.jpg',
+  callback: [Function] }
+[2016-01-14 10:41:22.347] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/td.jpg' ]
+[2016-01-14 10:41:22.348] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:42:18.005] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:42:18.052] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:42:18.100] [DEBUG] blogfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_21cb68fe563a428df893394f014de627.jpg',
+     ext: '.jpg',
+     name: 'upload_21cb68fe563a428df893394f014de627',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_21cb68fe563a428df893394f014de627.jpg' },
+  newAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images/pushimg',
+     base: 'T-T-T-T-td.jpg',
+     ext: '.jpg',
+     name: 'T-T-T-T-td',
+     path: '/home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-T-td.jpg' },
+  url: '/images/pushimg/T-T-T-T-td.jpg',
+  callback: [Function] }
+[2016-01-14 10:42:18.113] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/td.jpg' ]
+[2016-01-14 10:42:18.114] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:42:55.388] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:42:55.436] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:42:55.488] [DEBUG] blogfile - PicFile {
+  oldAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images',
+     base: 'td.jpg',
+     ext: '.jpg',
+     name: 'td',
+     path: '/home/kevin/project_c/xamazing/client/images/td.jpg' },
+  tmpAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/server/transport/tmpfiles',
+     base: 'upload_60a7c40fc794f044bca2ccdb73302e2e.jpg',
+     ext: '.jpg',
+     name: 'upload_60a7c40fc794f044bca2ccdb73302e2e',
+     path: '/home/kevin/project_c/xamazing/server/transport/tmpfiles/upload_60a7c40fc794f044bca2ccdb73302e2e.jpg' },
+  newAddr: 
+   { root: '/',
+     dir: '/home/kevin/project_c/xamazing/client/images/pushimg',
+     base: 'T-T-T-T-T-td.jpg',
+     ext: '.jpg',
+     name: 'T-T-T-T-T-td',
+     path: '/home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-T-T-td.jpg' },
+  url: '/images/pushimg/T-T-T-T-T-td.jpg',
+  callback: [Function] }
+[2016-01-14 10:42:55.500] [DEBUG] blogfile - [ '/home/kevin/project_c/xamazing/client/images/td.jpg' ]
+[2016-01-14 10:42:55.502] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:42:55.502] [DEBUG] blogfile - /\/\/home\/kevin\/project_c\/xamazing\/client\/images\/td.jpg\//
+[2016-01-14 10:43:47.876] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:43:47.924] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:43:47.973] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:43:47.973] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:44:11.937] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:44:11.984] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:44:12.045] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:44:12.045] [DEBUG] blogfile - /images/pushimg/T-T-T-T-T-T-T-td.jpg
+[2016-01-14 10:44:12.046] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:44:39.337] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:44:39.384] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:44:39.437] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:44:39.437] [DEBUG] blogfile - /images/pushimg/T-T-T-T-T-T-T-T-td.jpg
+[2016-01-14 10:44:39.437] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:46:46.981] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:46:47.028] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:46:47.082] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:46:47.083] [DEBUG] blogfile - false
+[2016-01-14 10:46:47.084] [DEBUG] blogfile - /images/pushimg/T-T-T-T-T-T-T-T-T-td.jpg
+[2016-01-14 10:46:47.084] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:46:47.084] [DEBUG] blogfile - [ undefined ]
+[2016-01-14 10:46:47.087] [DEBUG] blogfile - undefined
+[2016-01-14 10:46:47.087] [DEBUG] blogfile - 1
+[2016-01-14 10:47:39.728] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:47:39.776] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:47:39.829] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:47:39.830] [DEBUG] blogfile - false
+[2016-01-14 10:47:39.831] [DEBUG] blogfile - /images/pushimg/T-T-T-T-T-T-T-T-T-T-td.jpg
+[2016-01-14 10:47:39.831] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/home/kevin/project_c/xamazing/client/images/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:47:39.831] [DEBUG] blogfile - [ undefined ]
+[2016-01-14 10:47:39.833] [DEBUG] blogfile - undefined
+[2016-01-14 10:47:39.833] [DEBUG] blogfile - 1
+[2016-01-14 10:48:02.649] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:48:02.696] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:48:02.751] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:48:02.752] [DEBUG] blogfile - true
+[2016-01-14 10:48:02.752] [DEBUG] blogfile - /images/pushimg/T-T-T-T-T-T-T-T-T-T-T-td.jpg
+[2016-01-14 10:48:02.753] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/T-T-T-T-T-T-T-T-T-T-T-td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:48:02.753] [DEBUG] blogfile - [ undefined ]
+[2016-01-14 10:48:02.754] [DEBUG] blogfile - undefined
+[2016-01-14 10:48:02.755] [DEBUG] blogfile - 1
+[2016-01-14 10:50:05.809] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:50:05.856] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:50:05.912] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:50:05.913] [DEBUG] blogfile - true
+[2016-01-14 10:50:05.914] [DEBUG] blogfile - /images/pushimg/td.jpg
+[2016-01-14 10:50:05.914] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:50:05.914] [DEBUG] blogfile - [ undefined ]
+[2016-01-14 10:50:05.916] [DEBUG] blogfile - undefined
+[2016-01-14 10:50:05.916] [DEBUG] blogfile - 1
+[2016-01-14 10:51:01.893] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:51:01.940] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:51:01.995] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:51:01.997] [DEBUG] blogfile - true
+[2016-01-14 10:51:01.997] [DEBUG] blogfile - /images/pushimg/T-td.jpg
+[2016-01-14 10:51:01.997] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/T-td.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:51:01.998] [DEBUG] blogfile - [ undefined ]
+[2016-01-14 10:51:02.000] [DEBUG] blogfile - undefined
+[2016-01-14 10:51:02.000] [DEBUG] blogfile - 1
+[2016-01-14 10:51:02.001] [DEBUG] blogfile - 2
+[2016-01-14 10:51:02.001] [DEBUG] blogfile - blog callback over
+[2016-01-14 10:51:02.001] [DEBUG] picfile - emited
+[2016-01-14 10:51:02.004] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:53:00.438] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:53:00.484] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:53:00.532] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:53:00.540] [DEBUG] blogfile - true
+[2016-01-14 10:53:00.540] [DEBUG] blogfile - /images/pushimg/td.jpg
+[2016-01-14 10:53:00.541] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/td.jpg)
+![hello](/home/kevin/project_c/xamazing/client/images/test.jpg)
+![hello](/home/kevin/project_c/xamazing/client/images/sunrise1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:53:00.541] [DEBUG] blogfile - [ undefined,
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 10:53:00.543] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/test.jpg
+[2016-01-14 10:53:00.543] [DEBUG] picfile - emited
+[2016-01-14 10:53:00.546] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:53:00.596] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:53:00.619] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/test.jpg
+[2016-01-14 10:53:00.620] [DEBUG] blogfile - true
+[2016-01-14 10:53:00.620] [DEBUG] blogfile - /images/pushimg/test.jpg
+[2016-01-14 10:53:00.620] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/td.jpg)
+![hello](/images/pushimg/test.jpg)
+![hello](/home/kevin/project_c/xamazing/client/images/sunrise1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:53:00.620] [DEBUG] blogfile - [ undefined,
+  undefined,
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 10:53:00.621] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/sunrise1.jpg
+[2016-01-14 10:53:00.621] [DEBUG] picfile - emited
+[2016-01-14 10:53:00.622] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:53:00.671] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:53:00.719] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/sunrise1.jpg
+[2016-01-14 10:53:00.720] [DEBUG] blogfile - true
+[2016-01-14 10:53:00.721] [DEBUG] blogfile - /images/pushimg/sunrise1.jpg
+[2016-01-14 10:53:00.721] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/td.jpg)
+![hello](/images/pushimg/test.jpg)
+![hello](/images/pushimg/sunrise1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:53:00.723] [DEBUG] blogfile - [ undefined, undefined, undefined ]
+[2016-01-14 10:53:00.724] [DEBUG] blogfile - undefined
+[2016-01-14 10:53:00.725] [DEBUG] blogfile - 1
+[2016-01-14 10:53:00.726] [DEBUG] blogfile - 2
+[2016-01-14 10:53:00.727] [DEBUG] blogfile - blog callback over
+[2016-01-14 10:53:00.728] [DEBUG] picfile - emited
+[2016-01-14 10:53:00.730] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:57:21.164] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:57:21.212] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:57:21.265] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/td.jpg
+[2016-01-14 10:57:21.266] [DEBUG] blogfile - true
+[2016-01-14 10:57:21.267] [DEBUG] blogfile - /images/pushimg/td.jpg
+[2016-01-14 10:57:21.267] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/td.jpg)
+![hello](/home/kevin/project_c/xamazing/client/images/test.jpg)
+![hello](/home/kevin/project_c/xamazing/client/images/sunrise1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:57:21.267] [DEBUG] blogfile - [ undefined,
+  '/home/kevin/project_c/xamazing/client/images/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 10:57:21.269] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/test.jpg
+[2016-01-14 10:57:21.269] [DEBUG] picfile - emited
+[2016-01-14 10:57:21.271] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:57:21.319] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:57:21.344] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/test.jpg
+[2016-01-14 10:57:21.345] [DEBUG] blogfile - true
+[2016-01-14 10:57:21.345] [DEBUG] blogfile - /images/pushimg/test.jpg
+[2016-01-14 10:57:21.346] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/td.jpg)
+![hello](/images/pushimg/test.jpg)
+![hello](/home/kevin/project_c/xamazing/client/images/sunrise1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:57:21.346] [DEBUG] blogfile - [ undefined,
+  undefined,
+  '/home/kevin/project_c/xamazing/client/images/sunrise1.jpg' ]
+[2016-01-14 10:57:21.347] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/sunrise1.jpg
+[2016-01-14 10:57:21.347] [DEBUG] picfile - emited
+[2016-01-14 10:57:21.348] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:57:21.400] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:57:21.446] [DEBUG] blogfile - /home/kevin/project_c/xamazing/client/images/sunrise1.jpg
+[2016-01-14 10:57:21.447] [DEBUG] blogfile - true
+[2016-01-14 10:57:21.448] [DEBUG] blogfile - /images/pushimg/sunrise1.jpg
+[2016-01-14 10:57:21.448] [DEBUG] blogfile - {
+	"title":"testsss",
+	"sdf":"sdf",
+	"type":"blog"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+![hello](/images/pushimg/td.jpg)
+![hello](/images/pushimg/test.jpg)
+![hello](/images/pushimg/sunrise1.jpg)
+a
+df
+a
+fda
+
+[2016-01-14 10:57:21.448] [DEBUG] blogfile - [ undefined, undefined, undefined ]
+[2016-01-14 10:57:21.449] [DEBUG] blogfile - undefined
+[2016-01-14 10:57:21.450] [DEBUG] blogfile - 1
+[2016-01-14 10:57:21.451] [DEBUG] blogfile - 2
+[2016-01-14 10:57:21.451] [DEBUG] blogfile - blog callback over
+[2016-01-14 10:57:21.451] [DEBUG] picfile - emited
+[2016-01-14 10:57:21.452] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:59:19.953] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:59:20.000] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:59:20.052] [DEBUG] picfile - emited
+[2016-01-14 10:59:20.055] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:59:20.103] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:59:20.131] [DEBUG] picfile - emited
+[2016-01-14 10:59:20.132] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 10:59:20.183] [DEBUG] picfile - picfile begin deal
+[2016-01-14 10:59:20.230] [DEBUG] blogfile - blog callback over
+[2016-01-14 10:59:20.230] [DEBUG] picfile - emited
+[2016-01-14 10:59:20.231] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:00:34.332] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:00:34.380] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:00:34.433] [DEBUG] picfile - emited
+[2016-01-14 11:00:34.436] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:00:34.484] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:00:34.509] [DEBUG] picfile - emited
+[2016-01-14 11:00:34.510] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:00:34.559] [DEBUG] picfile - picfile begin deal
+[2016-01-14 11:00:34.607] [DEBUG] blogfile - blog callback over
+[2016-01-14 11:00:34.608] [DEBUG] picfile - emited
+[2016-01-14 11:00:34.609] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 11:00:34.612] [DEBUG] blogfile - here
+[2016-01-14 11:00:34.613] [DEBUG] blogfile - Blog {
+  id: undefined,
+  title: 'testsss',
+  content: '\ndasfdad\nsaf\ndasfd\na\n\n![hello](/images/pushimg/T-T-td.jpg)\n![hello](/images/pushimg/T-T-test.jpg)\n![hello](/images/pushimg/T-T-sunrise1.jpg)\na\ndf\na\nfda\n',
+  createtime: undefined,
+  author: undefined }
+[2016-01-14 11:00:34.634] [DEBUG] blogfile - blog complete over

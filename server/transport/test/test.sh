@@ -1,8 +1,9 @@
 #!/bin/bash
 
 ./blogpushtest.sh
-curl -F "upload=@../../client/images/td.jpg;filename=/home/kevin/project_c/xamazing/client/images/td.jpg;" http://localhost:3003/adminpush/
-
+curl -F "upload=@../../../client/images/td.jpg;filename=/home/kevin/project_c/xamazing/client/images/td.jpg;" http://localhost:3003/adminpush/
+curl -F "upload=@../../../client/images/test.jpg;filename=/home/kevin/project_c/xamazing/client/images/test.jpg;" http://localhost:3003/adminpush/
+curl -F "upload=@../../../client/images/sunrise1.jpg;filename=/home/kevin/project_c/xamazing/client/images/sunrise1.jpg;" http://localhost:3003/adminpush/
 # { 
 #	upload: 
 #	   File {

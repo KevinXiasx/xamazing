@@ -5,7 +5,7 @@ var FileWorker = require('./filework');
 var logger = require('log4js').getLogger("blogfile");
 var unam = require('./parsefile');
 
-const movetodir = path.join(__dirname, './amfiles');
+const movetodir = path.join(__dirname, '../amfiles');
 
 if(!fs.existsSync(movetodir))
 	fs.mkdirSync(movetodir);
@@ -36,7 +36,10 @@ class BlogFile extends FileWorker{
 						resolve(null);
 					}else
 						self.content = result[1].toString();
-					self.waitArray = self.content.match(/!\[.+\]\((?!\/images\/).*?\)/g);
+					var array = self.content.match(/!\[.+\]\((?!\/images\/).*?\)/g);
+					self.waitArray = array.map(x=>{
+						return x.match(/\((.+)\)/)[1];
+					})
 					resolve(self.waitArray);
 				}else
 					resolve(self.waitArray);
@@ -56,34 +59,26 @@ class BlogFile extends FileWorker{
 	}
 
 	begingWait(){
-		this.on('comepic', this.callback);
-	}
-
-	callback(picfile){
-		console.log(this);
-		logger.debug('3');
-		var index = this.waitArray.findIndex(x=>{
-			return x === picfile.oldAddr.path;
-		});
-		logger.debug(this.waitArray[index]);
-		if(!this.waitArray[index])
-			return ;
-		else{
-			var regext = new RegExt(`/${waitArray[index].match(/\((.+)\)/)[1]}/`);
-			logger.debug(regext);
-			this.content.replace(regext, picfile.url);
-			picfile.fileComplete();
-			this.waitArray[index] = undefined;
-			logger.debug(this.waitArray);
-			logger.debug(this.waitArray.find(x=>{return x}));
-			if( !this.waitArray.find(x=>{return x}) ){
-				logger.debug('1');
-				contentComplete();
-				logger.debug(2);
-				this.removeListener('comepic', this.callback);
-				logger.debug('blog callback over');
+		const self = this;
+		self.callback = function (picfile) {
+			var index = self.waitArray.findIndex(x=>{
+				return x === picfile.oldAddr.path;
+			});
+			if(!self.waitArray[index])
+				return ;
+			else{
+				var regext = new RegExp(`${self.waitArray[index]}`);
+				self.content = self.content.replace(regext, picfile.url);
+				picfile.fileComplete();
+				self.waitArray[index] = undefined;
+				if( !self.waitArray.find(x=>{return x}) ){
+					self.contentComplete();
+					self.removeListener('comepic', self.callback);
+					logger.debug('blog callback over');
+				}
 			}
 		}
+		self.on('comepic', self.callback);
 	}
 
 	contentComplete(){
@@ -96,7 +91,7 @@ class BlogFile extends FileWorker{
 					return ;
 				}
 				yield self.moveTo(movetodir);
-				var blog = unamFormString(self.content);
+				var blog = unam.unamFormString(self.content);
 				blog.save();
 				logger.debug('blog complete over');
 				resolve(true);

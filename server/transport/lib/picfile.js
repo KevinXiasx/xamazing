@@ -62,16 +62,17 @@ class PicFile extends FileWorker{
 
 	fileReady(){
 		assert(this.newAddr, 'newAddr is null');
-		this.on('comeblog',this.callback);
-		this.callback();
-	}
-
-	callback(){
-		this.emit('comepic', this);
+		const self = this;
+		self.callback = function () {
+			self.emit('comepic', self);
+			logger.debug('emited');
+		}
+		self.on('comeblog',self.callback);
+		self.callback();
 	}
 
 	fileComplete(){
-		removeListener('comeblog',this.callback);
+		this.removeListener('comeblog',this.callback);
 	}
 }
 

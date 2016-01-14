@@ -12,6 +12,10 @@ var logger = require('log4js').getLogger("transport");
 
 const savepath = path.join(__dirname, './files');
 
+const tmpdir = path.join(__dirname, './tmpfiles');
+if(!fs.existsSync(tmpdir))
+    fs.mkdirSync(tmpdir);
+
 var toPro = function(...argus) {
     return new Promise(function(resolve, reject) {
         var func = argus.pop();
@@ -30,7 +34,7 @@ var recvfile = function(req){
             form.keepExtensions = true;
             form.maxFieldsSize = 2 * 1024 * 1024;
             
-            form.uploadDir = path.join(__dirname, './tmpfiles');
+            form.uploadDir = tmpdir;
             form.parse(req, (err, fields, files)=>{
                 if (err)
                     reject(err);
