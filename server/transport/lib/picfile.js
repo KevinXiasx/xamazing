@@ -4,8 +4,7 @@ var co = require('co');
 var FileWorker = require('./filework');
 var logger = require('log4js').getLogger("picfile");
 const assert = require('assert');
-const exec = require('child_process').exec,
-    child;
+const exec = require('child_process').exec;
 
 const size = "500x>";
 const minsize = "500x300";
@@ -37,7 +36,7 @@ class PicFile extends FileWorker{
 		var self = this;
 		return new Promise((resolve, reject)=>{
 			co(function* () {
-				logger.debug('picfile begin deal');
+				logger.debug(this.oldAddr.name +' picfile begin deal');
 				yield self.moveTo(movetodir);
 				self.url = self.newAddr.path.replace(/^.*\/images\//, '/images/');
 				yield self.compress();
@@ -52,13 +51,10 @@ class PicFile extends FileWorker{
 		return new Promise((resolve, reject)=>{
 			co(function* () {
 				assert(self.newAddr, 'newAddr is null');
-				logger.debug('he');
 				var compressShell = `convert ${self.newAddr.path} -resize '${size}' -gravity center -crop ${minsize}+0+0 +repage ${self.newAddr.path.replace(/\/(?=[^\/]+$)/, '/min/')}`;
-				logger.debug(compressShell);
 				var std = yield toPro(compressShell, exec); 
 				if(std[0] || std[1])
 					logger.error('compress:'+error+stderr);
-				logger.debug('he1');
 				resolve(true);
 			})
 		})
@@ -69,7 +65,7 @@ class PicFile extends FileWorker{
 		const self = this;
 		self.callback = function () {
 			self.emit('comepic', self);
-			logger.debug('emited');
+			logger.debug(this.oldAddr.name +' emited');
 		}
 		self.on('comeblog',self.callback);
 		self.callback();

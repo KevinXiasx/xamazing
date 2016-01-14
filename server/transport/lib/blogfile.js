@@ -36,12 +36,11 @@ class BlogFile extends FileWorker{
 						resolve(null);
 					}else
 						self.content = result[1].toString();
-					var contentPicArray = self.content.match(/!\[.+\]\((?!\/images\/).*?\)/g);
+					var contentPicArray = self.content.match(/!\[.+\]\((?!\/images\/).*?\)/g) || [];
 					var headerPicArray ;
-					logger.debug(self.content);
 					try{
 						var str = self.content.match(/"path"(.|\n)+?(\[(.|\n)+?\])/m)[2];
-						headerPicArray = JSON.parse(str);
+						headerPicArray = JSON.parse(str) || [];
 					}catch(e){
 						logger.error('parse pic path fail , file :'+self.oldAddr.name);
 					}
@@ -70,7 +69,7 @@ class BlogFile extends FileWorker{
 
 	begingWait(){
 		const self = this;
-
+		logger.debug('begin listen');
 		self.callback = function (picfile) {
 			logger.debug(`pic ${picfile.oldAddr.name} is come`);
 			var index = self.waitArray.findIndex(x=>{
@@ -82,6 +81,7 @@ class BlogFile extends FileWorker{
 				var regext = new RegExp(`${self.waitArray[index]}`);
 				self.content = self.content.replace(regext, picfile.url);
 				picfile.fileComplete();
+				logger.debug('reviect '+ picfile.oldAddr.name);
 				self.waitArray[index] = undefined;
 				if( !self.waitArray.find(x=>{return x}) ){
 					self.contentComplete();
@@ -104,7 +104,6 @@ class BlogFile extends FileWorker{
 					reject(result[0]);
 					return ;
 				}
-				logger.debug(self.content);
 				var blog = unam.unamFormString(self.content);
 				if(blog)
 					blog.save();

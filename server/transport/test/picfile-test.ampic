@@ -1,8 +1,8 @@
 {
 	"title":"piclifetest",
-	"path":["/home/kevin/project_c/xamazing/client/images/td.jpg",
-			"/home/kevin/project_c/xamazing/client/images/test.jpg",
-			"/home/kevin/project_c/xamazing/client/images/sunrise1.jpg"],
+	"path":["../../../client/images/pushimg/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg"],
 	"type":"piclife"
 }
 ----------------------------
@@ -11,7 +11,6 @@ saf
 dasfd
 a
 
-![hello](/home/kevin/project_c/xamazing/client/images/biyezhao1.jpg)
 a
 df
 a

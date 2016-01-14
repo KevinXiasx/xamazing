@@ -3366,3 +3366,245 @@ fda
 [2016-01-14 14:46:31.813] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/header/header-main.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
 [2016-01-14 14:46:31.815] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery-seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
 [2016-01-14 14:46:31.830] [WARN] http - ::ffff:127.0.0.1 - - "GET /public/lib/jquery/jquery.easing.seajs.js HTTP/1.1" 304 - "http://localhost:3003/singlepic?picid=20000004" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
+[2016-01-14 16:39:37.974] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["../../../client/images/pushimg/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+a
+df
+a
+fda
+
+[2016-01-14 16:39:37.987] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:39:37.990] [DEBUG] picfile - he
+[2016-01-14 16:39:37.991] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-td.jpg
+[2016-01-14 16:39:38.002] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:39:38.003] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:39:38.005] [DEBUG] picfile - he
+[2016-01-14 16:39:38.005] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-test.jpg
+[2016-01-14 16:39:38.012] [DEBUG] picfile - he
+[2016-01-14 16:39:38.013] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-sunrise1.jpg
+[2016-01-14 16:39:38.032] [DEBUG] picfile - he1
+[2016-01-14 16:39:38.033] [DEBUG] picfile - emited
+[2016-01-14 16:39:38.056] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:39:38.117] [DEBUG] picfile - he1
+[2016-01-14 16:39:38.118] [DEBUG] picfile - emited
+[2016-01-14 16:39:38.123] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:39:38.124] [DEBUG] picfile - he1
+[2016-01-14 16:39:38.125] [DEBUG] picfile - emited
+[2016-01-14 16:39:38.126] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:44:12.636] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["../../../client/images/pushimg/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+a
+df
+a
+fda
+
+[2016-01-14 16:44:12.656] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:44:12.657] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:44:12.664] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:44:12.666] [DEBUG] picfile - he
+[2016-01-14 16:44:12.667] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-td.jpg
+[2016-01-14 16:44:12.678] [DEBUG] picfile - he
+[2016-01-14 16:44:12.678] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-test.jpg
+[2016-01-14 16:44:12.683] [DEBUG] picfile - he
+[2016-01-14 16:44:12.683] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-sunrise1.jpg
+[2016-01-14 16:44:12.716] [DEBUG] picfile - he1
+[2016-01-14 16:44:12.717] [DEBUG] picfile - emited
+[2016-01-14 16:44:12.737] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:44:12.772] [DEBUG] picfile - he1
+[2016-01-14 16:44:12.774] [DEBUG] picfile - emited
+[2016-01-14 16:44:12.784] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:44:12.804] [DEBUG] picfile - he1
+[2016-01-14 16:44:12.805] [DEBUG] picfile - emited
+[2016-01-14 16:44:12.810] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:46:28.403] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["../../../client/images/pushimg/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+a
+df
+a
+fda
+
+[2016-01-14 16:46:28.424] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:46:28.425] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:46:28.431] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:46:28.434] [DEBUG] picfile - he
+[2016-01-14 16:46:28.434] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-td.jpg
+[2016-01-14 16:46:28.447] [DEBUG] picfile - he
+[2016-01-14 16:46:28.448] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-test.jpg
+[2016-01-14 16:46:28.453] [DEBUG] picfile - he
+[2016-01-14 16:46:28.454] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-sunrise1.jpg
+[2016-01-14 16:46:28.497] [DEBUG] picfile - he1
+[2016-01-14 16:46:28.498] [DEBUG] picfile - emited
+[2016-01-14 16:46:28.530] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:46:28.573] [DEBUG] picfile - he1
+[2016-01-14 16:46:28.576] [DEBUG] picfile - emited
+[2016-01-14 16:46:28.582] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:46:28.591] [DEBUG] picfile - he1
+[2016-01-14 16:46:28.591] [DEBUG] picfile - emited
+[2016-01-14 16:46:28.593] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:48:23.764] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["../../../client/images/pushimg/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+a
+df
+a
+fda
+
+[2016-01-14 16:48:23.767] [DEBUG] blogfile - [ '../../../client/images/pushimg/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg' ]
+[2016-01-14 16:48:23.771] [DEBUG] blogfile - begin listen
+[2016-01-14 16:48:23.785] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:48:23.789] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:48:23.790] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:48:23.790] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:48:23.793] [DEBUG] picfile - he
+[2016-01-14 16:48:23.793] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-T-test.jpg
+[2016-01-14 16:48:23.805] [DEBUG] picfile - he
+[2016-01-14 16:48:23.807] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-T-td.jpg
+[2016-01-14 16:48:23.812] [DEBUG] picfile - he
+[2016-01-14 16:48:23.812] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-T-T-sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-T-T-sunrise1.jpg
+[2016-01-14 16:48:23.833] [DEBUG] picfile - he1
+[2016-01-14 16:48:23.836] [DEBUG] blogfile - pic test is come
+[2016-01-14 16:48:23.838] [DEBUG] blogfile - reviect test
+[2016-01-14 16:48:23.840] [DEBUG] picfile - emited
+[2016-01-14 16:48:23.849] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:48:23.928] [DEBUG] picfile - he1
+[2016-01-14 16:48:23.929] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 16:48:23.930] [DEBUG] blogfile - reviect sunrise1
+[2016-01-14 16:48:23.930] [DEBUG] picfile - emited
+[2016-01-14 16:48:23.932] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:48:23.934] [DEBUG] picfile - he1
+[2016-01-14 16:48:23.935] [DEBUG] blogfile - pic td is come
+[2016-01-14 16:48:23.935] [DEBUG] blogfile - reviect td
+[2016-01-14 16:48:23.936] [DEBUG] blogfile - blog callback over
+[2016-01-14 16:48:23.936] [DEBUG] picfile - emited
+[2016-01-14 16:48:23.938] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:48:23.940] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/T-T-T-td.jpg",
+			"/images/pushimg/T-T-T-test.jpg",
+			"/images/pushimg/T-T-T-sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+a
+df
+a
+fda
+
+[2016-01-14 16:48:23.990] [DEBUG] blogfile - blog complete over
+[2016-01-14 16:49:05.891] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["../../../client/images/pushimg/td.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg",
+			"/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+a
+df
+a
+fda
+
+[2016-01-14 16:49:05.894] [DEBUG] blogfile - [ '../../../client/images/pushimg/td.jpg',
+  '/home/kevin/project_c/xamazing/client/images/pushimg/test.jpg',
+  '/home/kevin/project_c/xamazing/client/images/pushimg/sunrise1.jpg' ]
+[2016-01-14 16:49:05.897] [DEBUG] blogfile - begin listen
+[2016-01-14 16:49:05.910] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:49:05.913] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:49:05.914] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:49:05.915] [DEBUG] picfile - picfile begin deal
+[2016-01-14 16:49:05.916] [DEBUG] picfile - he
+[2016-01-14 16:49:05.917] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-test.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-test.jpg
+[2016-01-14 16:49:05.926] [DEBUG] picfile - he
+[2016-01-14 16:49:05.926] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-td.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-td.jpg
+[2016-01-14 16:49:05.932] [DEBUG] picfile - he
+[2016-01-14 16:49:05.933] [DEBUG] picfile - convert /home/kevin/project_c/xamazing/client/images/pushimg/T-sunrise1.jpg -resize '500x>' -gravity center -crop 500x300+0+0 +repage /home/kevin/project_c/xamazing/client/images/pushimg/min/T-sunrise1.jpg
+[2016-01-14 16:49:05.953] [DEBUG] picfile - he1
+[2016-01-14 16:49:05.954] [DEBUG] blogfile - pic test is come
+[2016-01-14 16:49:05.955] [DEBUG] blogfile - reviect test
+[2016-01-14 16:49:05.956] [DEBUG] picfile - emited
+[2016-01-14 16:49:05.962] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:49:06.038] [DEBUG] picfile - he1
+[2016-01-14 16:49:06.039] [DEBUG] blogfile - pic sunrise1 is come
+[2016-01-14 16:49:06.039] [DEBUG] blogfile - reviect sunrise1
+[2016-01-14 16:49:06.040] [DEBUG] picfile - emited
+[2016-01-14 16:49:06.042] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:49:06.044] [DEBUG] picfile - he1
+[2016-01-14 16:49:06.045] [DEBUG] blogfile - pic td is come
+[2016-01-14 16:49:06.045] [DEBUG] blogfile - reviect td
+[2016-01-14 16:49:06.046] [DEBUG] blogfile - blog callback over
+[2016-01-14 16:49:06.046] [DEBUG] picfile - emited
+[2016-01-14 16:49:06.047] [INFO] http - ::ffff:127.0.0.1 - - "POST /adminpush/ HTTP/1.1" 200 2 "" "curl/7.43.0"
+[2016-01-14 16:49:06.049] [DEBUG] blogfile - {
+	"title":"piclifetest",
+	"path":["/images/pushimg/T-td.jpg",
+			"/images/pushimg/T-test.jpg",
+			"/images/pushimg/T-sunrise1.jpg"],
+	"type":"piclife"
+}
+----------------------------
+dasfdad
+saf
+dasfd
+a
+
+a
+df
+a
+fda
+
+[2016-01-14 16:49:06.094] [DEBUG] blogfile - blog complete over
